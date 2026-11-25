@@ -1,0 +1,1001 @@
+order_id;order_date;customer_id;product_id;product_name;category;city;quantity;unit_price;discount;status;revenue
+ORD0001;2024-12-14;CUST0215;P007;Jeans;Clothing;Curitiba;3;158,39;0,05;Completed;451,41
+ORD0002;2024-03-28;CUST0258;P011;Yoga Mat;Sports;Belo Horizonte;5;91,82;0,1;Completed;413,19
+ORD0003;2024-07-10;CUST0236;P006;T-shirt;Clothing;Sao Paulo;4;60,88;0,0;Completed;243,52
+ORD0004;2024-02-28;CUST0175;P001;Laptop;Electronics;Curitiba;2;3182,67;0,2;Completed;5092,27
+ORD0005;2024-08-31;CUST0167;P007;Jeans;Clothing;Rio de Janeiro;1;136,39;0,1;Completed;122,75
+ORD0006;2024-03-29;CUST0092;P004;Office Chair;Furniture;Belo Horizonte;4;860,76;0,0;Completed;3443,04
+ORD0007;2024-09-20;CUST0002;P007;Jeans;Clothing;Rio de Janeiro;3;162,28;0,0;Completed;486,84
+ORD0008;2024-11-05;CUST0270;P004;Office Chair;Furniture;Belo Horizonte;5;929,83;0,1;Cancelled;4184,24
+ORD0009;2024-07-08;CUST0217;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;5;439,98;0,0;Completed;2199,9
+ORD0010;2024-06-05;CUST0136;P009;Coffee Maker;Home & Kitchen;Curitiba;5;411,71;0,2;Completed;1646,84
+ORD0011;2024-03-21;CUST0041;P003;Headphones;Electronics;Belo Horizonte;3;370,31;0,1;Cancelled;999,84
+ORD0012;2024-07-19;CUST0216;P007;Jeans;Clothing;Porto Alegre;4;144,93;0,0;Completed;579,72
+ORD0013;2024-06-20;CUST0131;P003;Headphones;Electronics;Sao Paulo;3;354,29;0,0;Cancelled;1062,87
+ORD0014;2024-08-05;CUST0179;P005;Desk;Furniture;Sao Paulo;3;1205,46;0,05;Completed;3435,56
+ORD0015;2024-04-05;CUST0171;P004;Office Chair;Furniture;Porto Alegre;4;919,29;0,0;Completed;3677,16
+ORD0016;2024-01-13;CUST0062;P004;Office Chair;Furniture;Sao Paulo;3;883,11;0,15;Completed;2251,93
+ORD0017;2024-05-13;CUST0128;P005;Desk;Furniture;Rio de Janeiro;4;1272,88;0,0;Cancelled;5091,52
+ORD0018;2024-12-13;CUST0121;P007;Jeans;Clothing;Belo Horizonte;1;144,54;0,0;Completed;144,54
+ORD0019;2024-09-15;CUST0172;P009;Coffee Maker;Home & Kitchen;Curitiba;3;442,57;0,0;Completed;1327,71
+ORD0020;2024-06-08;CUST0268;P006;T-shirt;Clothing;Rio de Janeiro;1;63,75;0,0;Completed;63,75
+ORD0021;2024-04-22;CUST0130;P003;Headphones;Electronics;Belo Horizonte;5;334,94;0,0;Completed;1674,7
+ORD0022;2024-12-08;CUST0053;P006;T-shirt;Clothing;Belo Horizonte;5;62,99;0,1;Completed;283,46
+ORD0023;2024-06-08;CUST0294;P010;Running Shoes;Sports;Porto Alegre;4;293,17;0,0;Completed;1172,68
+ORD0024;2024-04-07;CUST0187;P004;Office Chair;Furniture;Porto Alegre;3;903,79;0,1;Completed;2440,23
+ORD0025;2024-05-27;CUST0147;P003;Headphones;Electronics;Belo Horizonte;4;362,43;0,0;Completed;1449,72
+ORD0026;2024-11-03;CUST0129;P007;Jeans;Clothing;Curitiba;1;155,73;0,0;Cancelled;155,73
+ORD0027;2024-05-30;CUST0060;P009;Coffee Maker;Home & Kitchen;Sao Paulo;2;428,21;0,1;Completed;770,78
+ORD0028;2024-10-30;CUST0233;P002;Smartphone;Electronics;Curitiba;4;2225,65;0,15;Completed;7567,21
+ORD0029;2024-10-30;CUST0116;P003;Headphones;Electronics;Curitiba;3;374,94;0,05;Cancelled;1068,58
+ORD0030;2024-04-13;CUST0153;P001;Laptop;Electronics;Porto Alegre;4;3556,48;0,0;Cancelled;14225,92
+ORD0031;2024-12-31;CUST0161;P002;Smartphone;Electronics;Belo Horizonte;2;2193,67;0,05;Cancelled;4167,97
+ORD0032;2024-10-03;CUST0128;P001;Laptop;Electronics;Sao Paulo;4;3406,53;0,1;Completed;12263,51
+ORD0033;2024-01-22;CUST0277;P011;Yoga Mat;Sports;Sao Paulo;5;89,76;0,15;Completed;381,48
+ORD0034;2024-11-12;CUST0172;P001;Laptop;Electronics;Belo Horizonte;3;3550,4;0,1;Completed;9586,08
+ORD0035;2024-01-06;CUST0181;P005;Desk;Furniture;Curitiba;3;1259,45;0,2;Completed;3022,68
+ORD0036;2024-04-25;CUST0128;P001;Laptop;Electronics;Unknown;5;3419,57;0,15;Completed;14533,17
+ORD0037;2024-08-10;CUST0151;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;2;488,7;0,0;Completed;977,4
+ORD0038;2024-09-29;CUST0170;P011;Yoga Mat;Sports;Rio de Janeiro;1;83,46;0,1;Completed;75,11
+ORD0039;2024-11-01;CUST0036;P003;Headphones;Electronics;Porto Alegre;1;357,81;0,0;Completed;357,81
+ORD0040;2024-11-16;CUST0288;P004;Office Chair;Furniture;Curitiba;4;915,72;0,0;Completed;3662,88
+ORD0041;2024-07-04;CUST0170;P009;Coffee Maker;Home & Kitchen;Curitiba;5;480,5;0,15;Completed;2042,12
+ORD0042;2024-09-20;CUST0262;P005;Desk;Furniture;Porto Alegre;5;1145,17;0,2;Completed;4580,68
+ORD0043;2024-12-15;CUST0124;P004;Office Chair;Furniture;Rio de Janeiro;3;873,36;0,1;Cancelled;2358,07
+ORD0044;2024-05-24;CUST0117;P003;Headphones;Electronics;Sao Paulo;3;345,73;0,0;Completed;1037,19
+ORD0045;2024-05-08;CUST0118;P005;Desk;Furniture;Sao Paulo;2;1299,65;0,05;Completed;2469,34
+ORD0046;2024-08-24;CUST0069;P008;Blender;Home & Kitchen;Porto Alegre;5;287,74;0,05;Completed;1366,76
+ORD0047;2024-03-16;CUST0220;P007;Jeans;Clothing;Porto Alegre;2;145,68;0,1;Completed;262,22
+ORD0048;2024-04-03;CUST0039;P001;Laptop;Electronics;Belo Horizonte;4;3272,73;0,0;Completed;13090,92
+ORD0049;2024-09-10;CUST0290;P001;Laptop;Electronics;Belo Horizonte;5;3428,95;0,1;Completed;15430,28
+ORD0050;2024-09-06;CUST0004;P010;Running Shoes;Sports;Rio de Janeiro;3;320,2;0,15;Completed;816,51
+ORD0051;2024-06-08;CUST0033;P001;Laptop;Electronics;Sao Paulo;3;3710,66;0,1;Completed;10018,78
+ORD0052;2024-04-10;CUST0044;P003;Headphones;Electronics;Porto Alegre;4;342,03;0,2;Cancelled;1094,5
+ORD0053;2024-09-09;CUST0093;P002;Smartphone;Electronics;Rio de Janeiro;3;2252,03;0,0;Completed;6756,09
+ORD0054;2024-03-30;CUST0114;P010;Running Shoes;Sports;Porto Alegre;2;304,68;0,05;Completed;578,89
+ORD0055;2024-08-04;CUST0192;P011;Yoga Mat;Sports;Curitiba;5;98,42;0,05;Completed;467,5
+ORD0056;2024-04-08;CUST0190;P001;Laptop;Electronics;Porto Alegre;4;3410,41;0,1;Completed;12277,48
+ORD0057;2024-07-01;CUST0062;P001;Laptop;Electronics;Belo Horizonte;5;3667,94;0,0;Completed;18339,7
+ORD0058;2024-12-07;CUST0233;P009;Coffee Maker;Home & Kitchen;Curitiba;5;485,6;0,0;Completed;2428,0
+ORD0059;2024-10-10;CUST0099;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;4;456,61;0,1;Completed;1643,8
+ORD0060;2024-02-22;CUST0223;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;1;415,21;0,15;Cancelled;352,93
+ORD0061;2024-06-11;CUST0074;P005;Desk;Furniture;Rio de Janeiro;5;1164,22;0,0;Completed;5821,1
+ORD0062;2024-09-09;CUST0194;P001;Laptop;Electronics;Porto Alegre;5;3305,8;0,0;Cancelled;16529,0
+ORD0063;2024-12-04;CUST0217;P005;Desk;Furniture;Porto Alegre;5;1168,95;0,15;Cancelled;4968,04
+ORD0064;2024-10-18;CUST0091;P004;Office Chair;Furniture;Rio de Janeiro;4;779,2;0,1;Completed;2805,12
+ORD0065;2024-01-19;CUST0148;P010;Running Shoes;Sports;Belo Horizonte;3;304,24;0,05;Completed;867,08
+ORD0066;2024-11-12;CUST0191;P008;Blender;Home & Kitchen;Belo Horizonte;1;293,68;0,1;Completed;264,31
+ORD0067;2024-11-07;CUST0160;P001;Laptop;Electronics;Porto Alegre;1;3306,52;0,2;Completed;2645,22
+ORD0068;2024-03-20;CUST0020;P005;Desk;Furniture;Sao Paulo;5;1318,31;0,0;Completed;6591,55
+ORD0069;2024-02-16;CUST0054;P002;Smartphone;Electronics;Curitiba;1;2075,4;0,0;Cancelled;2075,4
+ORD0070;2024-01-12;CUST0156;P007;Jeans;Clothing;Porto Alegre;2;163,51;0,15;Completed;277,97
+ORD0071;2024-05-01;CUST0028;P008;Blender;Home & Kitchen;Belo Horizonte;4;288,22;0,0;Completed;1152,88
+ORD0072;2024-02-10;CUST0212;P005;Desk;Furniture;Porto Alegre;4;1316,69;0,1;Completed;4740,08
+ORD0073;2024-09-09;CUST0010;P003;Headphones;Electronics;Rio de Janeiro;2;344,16;0,05;Cancelled;653,9
+ORD0074;2024-12-30;CUST0224;P011;Yoga Mat;Sports;Sao Paulo;5;81,47;0,0;Completed;407,35
+ORD0075;2024-12-06;CUST0098;P011;Yoga Mat;Sports;Sao Paulo;2;87,86;0,2;Completed;140,58
+ORD0076;2024-11-06;CUST0023;P003;Headphones;Electronics;Porto Alegre;4;371,9;0,2;Cancelled;1190,08
+ORD0077;2024-06-13;CUST0001;P005;Desk;Furniture;Curitiba;2;1283,92;0,0;Completed;2567,84
+ORD0078;2024-10-14;CUST0162;P004;Office Chair;Furniture;Curitiba;2;825,89;0,0;Completed;1651,78
+ORD0079;2024-11-01;CUST0251;P011;Yoga Mat;Sports;Sao Paulo;4;95,69;0,2;Completed;306,21
+ORD0080;2024-04-21;CUST0192;P001;Laptop;Electronics;Belo Horizonte;5;3584,22;0,1;Completed;16128,99
+ORD0081;2024-10-20;CUST0249;P002;Smartphone;Electronics;Sao Paulo;2;2239,56;0,0;Completed;4479,12
+ORD0082;2024-11-30;CUST0285;P008;Blender;Home & Kitchen;Belo Horizonte;4;268,69;0,05;Completed;1021,02
+ORD0083;2024-07-02;CUST0034;P010;Running Shoes;Sports;Porto Alegre;1;319,5;0,0;Completed;319,5
+ORD0084;2024-07-23;CUST0151;P002;Smartphone;Electronics;Curitiba;3;2235,05;0,0;Completed;6705,15
+ORD0085;2024-01-08;CUST0195;P006;T-shirt;Clothing;Curitiba;4;60,86;0,0;Cancelled;243,44
+ORD0086;2024-03-01;CUST0170;P002;Smartphone;Electronics;Porto Alegre;2;2078,49;0,15;Completed;3533,43
+ORD0087;2024-11-21;CUST0078;P006;T-shirt;Clothing;Rio de Janeiro;1;65,45;0,0;Cancelled;65,45
+ORD0088;2024-03-13;CUST0107;P011;Yoga Mat;Sports;Porto Alegre;2;95,39;0,1;Completed;171,7
+ORD0089;2024-01-26;CUST0207;P001;Laptop;Electronics;Rio de Janeiro;4;3714,34;0,1;Completed;13371,62
+ORD0090;2024-03-18;CUST0007;P007;Jeans;Clothing;Curitiba;2;157,42;0,0;Completed;314,84
+ORD0091;2024-08-25;CUST0227;P007;Jeans;Clothing;Curitiba;3;150,96;0,0;Completed;452,88
+ORD0092;2024-04-28;CUST0086;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;5;421,41;0,05;Completed;2001,7
+ORD0093;2024-05-24;CUST0109;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;5;458,42;0,1;Completed;2062,89
+ORD0094;2024-04-20;CUST0042;P004;Office Chair;Furniture;Sao Paulo;2;859,82;0,05;Completed;1633,66
+ORD0095;2024-01-06;CUST0229;P005;Desk;Furniture;Sao Paulo;4;1235,02;0,05;Completed;4693,08
+ORD0096;2024-05-29;CUST0095;P001;Laptop;Electronics;Sao Paulo;5;3257,0;0,0;Completed;16285,0
+ORD0097;2024-08-30;CUST0220;P007;Jeans;Clothing;Curitiba;5;164,47;0,0;Completed;822,35
+ORD0098;2024-11-30;CUST0194;P004;Office Chair;Furniture;Curitiba;1;848,43;0,1;Completed;763,59
+ORD0099;2024-01-26;CUST0275;P008;Blender;Home & Kitchen;Belo Horizonte;3;298,96;0,0;Cancelled;896,88
+ORD0100;2024-01-20;CUST0038;P001;Laptop;Electronics;Porto Alegre;1;3520,89;0,1;Completed;3168,8
+ORD0101;2024-12-21;CUST0010;P011;Yoga Mat;Sports;Porto Alegre;5;90,59;0,0;Completed;452,95
+ORD0102;2024-05-17;CUST0101;P007;Jeans;Clothing;Sao Paulo;4;141,05;0,1;Completed;507,78
+ORD0103;2024-09-21;CUST0095;P001;Laptop;Electronics;Sao Paulo;3;3481,22;0,1;Completed;9399,29
+ORD0104;2024-11-13;CUST0137;P005;Desk;Furniture;Rio de Janeiro;4;1311,61;0,0;Completed;5246,44
+ORD0105;2024-02-04;CUST0267;P003;Headphones;Electronics;Sao Paulo;1;366,88;0,05;Completed;348,54
+ORD0106;2024-09-26;CUST0078;P005;Desk;Furniture;Rio de Janeiro;4;1119,28;0,0;Completed;4477,12
+ORD0107;2024-03-29;CUST0104;P004;Office Chair;Furniture;Curitiba;5;865,01;0,1;Completed;3892,54
+ORD0108;2024-12-18;CUST0104;P006;T-shirt;Clothing;Curitiba;1;61,52;0,15;Completed;52,29
+ORD0109;2024-07-16;CUST0015;P007;Jeans;Clothing;Porto Alegre;3;153,83;0,0;Completed;461,49
+ORD0110;2024-08-18;CUST0289;P001;Laptop;Electronics;Belo Horizonte;3;3702,02;0,0;Completed;11106,06
+ORD0111;2024-11-17;CUST0159;P006;T-shirt;Clothing;Belo Horizonte;2;64,92;0,1;Completed;116,86
+ORD0112;2024-07-02;CUST0173;P008;Blender;Home & Kitchen;Rio de Janeiro;5;282,23;0,05;Completed;1340,59
+ORD0113;2024-04-04;CUST0069;P011;Yoga Mat;Sports;Belo Horizonte;3;93,49;0,05;Completed;266,45
+ORD0114;2024-09-10;CUST0218;P011;Yoga Mat;Sports;Porto Alegre;2;87,17;0,0;Completed;174,34
+ORD0115;2024-07-28;CUST0133;P008;Blender;Home & Kitchen;Porto Alegre;1;266,34;0,1;Completed;239,71
+ORD0116;2024-05-06;CUST0051;P008;Blender;Home & Kitchen;Porto Alegre;2;295,19;0,0;Completed;590,38
+ORD0117;2024-10-23;CUST0110;P008;Blender;Home & Kitchen;Belo Horizonte;3;277,25;0,0;Cancelled;831,75
+ORD0118;2024-11-08;CUST0149;P006;T-shirt;Clothing;Sao Paulo;1;69,81;0,05;Completed;66,32
+ORD0119;2024-05-16;CUST0063;P005;Desk;Furniture;Belo Horizonte;2;1272,68;0,0;Completed;2545,36
+ORD0120;2024-03-30;CUST0017;P009;Coffee Maker;Home & Kitchen;Curitiba;3;488,07;0,05;Completed;1391,0
+ORD0121;2024-12-29;CUST0198;P011;Yoga Mat;Sports;Porto Alegre;3;83,54;0,0;Completed;250,62
+ORD0122;2024-06-09;CUST0049;P008;Blender;Home & Kitchen;Sao Paulo;1;295,71;0,0;Completed;295,71
+ORD0123;2024-12-26;CUST0049;P004;Office Chair;Furniture;Sao Paulo;1;859,74;0,15;Completed;730,78
+ORD0124;2024-07-29;CUST0019;P007;Jeans;Clothing;Rio de Janeiro;5;153,75;0,0;Completed;768,75
+ORD0125;2024-03-18;CUST0114;P001;Laptop;Electronics;Curitiba;3;3467,3;0,05;Completed;9881,8
+ORD0126;2024-09-20;CUST0162;P004;Office Chair;Furniture;Belo Horizonte;5;777,84;0,1;Completed;3500,28
+ORD0127;2024-03-27;CUST0247;P001;Laptop;Electronics;Curitiba;4;3737,85;0,15;Completed;12708,69
+ORD0128;2024-09-11;CUST0051;P008;Blender;Home & Kitchen;Sao Paulo;5;285,32;0,0;Completed;1426,6
+ORD0129;2024-10-17;CUST0223;P008;Blender;Home & Kitchen;Rio de Janeiro;3;305,91;0,15;Completed;780,07
+ORD0130;2024-11-25;CUST0036;P007;Jeans;Clothing;Porto Alegre;1;141,24;0,0;Completed;141,24
+ORD0131;2024-01-02;CUST0195;P002;Smartphone;Electronics;Belo Horizonte;1;2339,68;0,0;Completed;2339,68
+ORD0132;2024-09-17;CUST0280;P004;Office Chair;Furniture;Sao Paulo;5;834,6;0,05;Completed;3964,35
+ORD0133;2024-06-06;CUST0115;P010;Running Shoes;Sports;Sao Paulo;3;345,25;0,1;Completed;932,18
+ORD0134;2024-02-09;CUST0235;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;2;462,01;0,0;Completed;924,02
+ORD0135;2024-01-29;CUST0128;P010;Running Shoes;Sports;Porto Alegre;5;332,24;0,1;Completed;1495,08
+ORD0136;2024-12-21;CUST0076;P010;Running Shoes;Sports;Porto Alegre;1;305,54;0,05;Completed;290,26
+ORD0137;2024-12-07;CUST0098;P010;Running Shoes;Sports;Belo Horizonte;5;304,88;0,0;Completed;1524,4
+ORD0138;2024-11-04;CUST0122;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;2;487,3;0,05;Completed;925,87
+ORD0139;2024-12-28;CUST0149;P006;T-shirt;Clothing;Curitiba;1;59,58;0,1;Completed;53,62
+ORD0140;2024-01-11;CUST0098;P008;Blender;Home & Kitchen;Porto Alegre;4;292,27;0,0;Completed;1169,08
+ORD0141;2024-10-15;CUST0201;P008;Blender;Home & Kitchen;Rio de Janeiro;2;253,75;0,0;Completed;507,5
+ORD0142;2024-03-13;CUST0104;P002;Smartphone;Electronics;Rio de Janeiro;1;2134,68;0,05;Completed;2027,95
+ORD0143;2024-02-08;CUST0102;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;3;478,72;0,1;Completed;1292,54
+ORD0144;2024-04-10;CUST0057;P003;Headphones;Electronics;Sao Paulo;4;371,52;0,2;Completed;1188,86
+ORD0145;2024-12-04;CUST0200;P008;Blender;Home & Kitchen;Sao Paulo;5;294,51;0,1;Completed;1325,3
+ORD0146;2024-03-29;CUST0047;P002;Smartphone;Electronics;Rio de Janeiro;4;2077,33;0,2;Cancelled;6647,46
+ORD0147;2024-10-08;CUST0007;P007;Jeans;Clothing;Sao Paulo;5;149,2;0,0;Completed;746,0
+ORD0148;2024-06-24;CUST0103;P003;Headphones;Electronics;Sao Paulo;2;344,52;0,1;Completed;620,14
+ORD0149;2024-04-17;CUST0183;P008;Blender;Home & Kitchen;Belo Horizonte;4;278,94;0,15;Completed;948,4
+ORD0150;2024-01-15;CUST0161;P007;Jeans;Clothing;Porto Alegre;1;151,15;0,1;Completed;136,04
+ORD0151;2024-04-17;CUST0247;P010;Running Shoes;Sports;Porto Alegre;2;289,56;0,15;Completed;492,25
+ORD0152;2024-04-05;CUST0245;P002;Smartphone;Electronics;Belo Horizonte;3;2010,81;0,0;Completed;6032,43
+ORD0153;2024-09-28;CUST0065;P009;Coffee Maker;Home & Kitchen;Sao Paulo;4;493,57;0,1;Completed;1776,85
+ORD0154;2024-05-21;CUST0193;P003;Headphones;Electronics;Porto Alegre;2;335,74;0,0;Completed;671,48
+ORD0155;2024-10-31;CUST0061;P009;Coffee Maker;Home & Kitchen;Porto Alegre;1;466,17;0,0;Cancelled;466,17
+ORD0156;2024-07-16;CUST0260;P011;Yoga Mat;Sports;Curitiba;3;97,27;0,2;Completed;233,45
+ORD0157;2024-05-27;CUST0107;P008;Blender;Home & Kitchen;Rio de Janeiro;5;288,38;0,1;Completed;1297,71
+ORD0158;2024-08-05;CUST0261;P009;Coffee Maker;Home & Kitchen;Sao Paulo;1;421,78;0,1;Completed;379,6
+ORD0159;2024-04-08;CUST0178;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;4;494,54;0,0;Completed;1978,16
+ORD0160;2024-08-03;CUST0089;P001;Laptop;Electronics;Sao Paulo;3;3721,08;0,0;Completed;11163,24
+ORD0161;2024-12-22;CUST0029;P004;Office Chair;Furniture;Sao Paulo;2;842,76;0,0;Completed;1685,52
+ORD0162;2024-08-13;CUST0226;P003;Headphones;Electronics;Belo Horizonte;4;317,48;0,0;Cancelled;1269,92
+ORD0163;2024-11-23;CUST0176;P006;T-shirt;Clothing;Porto Alegre;3;67,9;0,05;Completed;193,52
+ORD0164;2024-03-21;CUST0186;P005;Desk;Furniture;Curitiba;2;1198,84;0,05;Completed;2277,8
+ORD0165;2024-02-09;CUST0216;P008;Blender;Home & Kitchen;Curitiba;2;282,45;0,15;Completed;480,16
+ORD0166;2024-04-01;CUST0045;P008;Blender;Home & Kitchen;Sao Paulo;1;260,81;0,0;Completed;260,81
+ORD0167;2024-06-18;CUST0235;P005;Desk;Furniture;Porto Alegre;4;1228,47;0,1;Completed;4422,49
+ORD0168;2024-09-05;CUST0158;P010;Running Shoes;Sports;Rio de Janeiro;3;344,26;0,0;Completed;1032,78
+ORD0169;2024-09-14;CUST0046;P004;Office Chair;Furniture;Curitiba;5;851,27;0,0;Completed;4256,35
+ORD0170;2024-08-20;CUST0163;P001;Laptop;Electronics;Curitiba;1;3231,09;0,0;Completed;3231,09
+ORD0171;2024-03-14;CUST0222;P007;Jeans;Clothing;Porto Alegre;1;163,89;0,0;Completed;163,89
+ORD0172;2024-07-14;CUST0017;P006;T-shirt;Clothing;Belo Horizonte;4;67,44;0,0;Completed;269,76
+ORD0173;2024-07-11;CUST0175;P006;T-shirt;Clothing;Porto Alegre;2;59,47;0,15;Cancelled;101,1
+ORD0174;2024-09-07;CUST0033;P004;Office Chair;Furniture;Curitiba;3;866,05;0,0;Completed;2598,15
+ORD0175;2024-02-27;CUST0099;P011;Yoga Mat;Sports;Porto Alegre;2;83,86;0,05;Cancelled;159,33
+ORD0176;2024-02-08;CUST0084;P009;Coffee Maker;Home & Kitchen;Curitiba;5;467,43;0,0;Completed;2337,15
+ORD0177;2024-07-13;CUST0084;P011;Yoga Mat;Sports;Curitiba;1;98,34;0,0;Completed;98,34
+ORD0178;2024-09-13;CUST0281;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;2;485,47;0,0;Completed;970,94
+ORD0179;2024-09-27;CUST0145;P002;Smartphone;Electronics;Porto Alegre;4;2188,21;0,2;Completed;7002,27
+ORD0180;2024-01-08;CUST0181;P005;Desk;Furniture;Belo Horizonte;3;1282,75;0,1;Completed;3463,42
+ORD0181;2024-02-15;CUST0228;P010;Running Shoes;Sports;Sao Paulo;1;288,08;0,05;Completed;273,68
+ORD0182;2024-11-14;CUST0205;P006;T-shirt;Clothing;Sao Paulo;5;62,0;0,1;Completed;279,0
+ORD0183;2024-10-03;CUST0166;P008;Blender;Home & Kitchen;Curitiba;2;290,11;0,0;Cancelled;580,22
+ORD0184;2024-10-15;CUST0088;P009;Coffee Maker;Home & Kitchen;Sao Paulo;4;475,19;0,0;Completed;1900,76
+ORD0185;2024-03-16;CUST0092;P001;Laptop;Electronics;Belo Horizonte;1;3549,63;0,0;Completed;3549,63
+ORD0186;2024-07-20;CUST0077;P001;Laptop;Electronics;Belo Horizonte;2;3378,52;0,05;Completed;6419,19
+ORD0187;2024-04-12;CUST0143;P010;Running Shoes;Sports;Rio de Janeiro;2;350,56;0,0;Completed;701,12
+ORD0188;2024-10-31;CUST0073;P010;Running Shoes;Sports;Sao Paulo;3;295,95;0,15;Completed;754,67
+ORD0189;2024-07-22;CUST0007;P002;Smartphone;Electronics;Curitiba;2;2255,13;0,1;Completed;4059,23
+ORD0190;2024-07-26;CUST0127;P004;Office Chair;Furniture;Sao Paulo;4;866,57;0,1;Completed;3119,65
+ORD0191;2024-01-14;CUST0025;P010;Running Shoes;Sports;Porto Alegre;3;334,39;0,05;Completed;953,01
+ORD0192;2024-05-01;CUST0119;P003;Headphones;Electronics;Porto Alegre;3;383,31;0,0;Completed;1149,93
+ORD0193;2024-10-14;CUST0037;P007;Jeans;Clothing;Unknown;3;139,85;0,0;Completed;419,55
+ORD0194;2024-05-10;CUST0207;P011;Yoga Mat;Sports;Sao Paulo;4;84,59;0,1;Completed;304,52
+ORD0195;2024-11-27;CUST0293;P007;Jeans;Clothing;Belo Horizonte;1;161,05;0,1;Completed;144,95
+ORD0196;2024-05-31;CUST0117;P004;Office Chair;Furniture;Rio de Janeiro;2;912,4;0,05;Completed;1733,56
+ORD0197;2024-03-06;CUST0186;P004;Office Chair;Furniture;Porto Alegre;2;899,8;0,1;Cancelled;1619,64
+ORD0198;2024-08-24;CUST0008;P003;Headphones;Electronics;Belo Horizonte;2;359,21;0,1;Completed;646,58
+ORD0199;2024-10-24;CUST0041;P007;Jeans;Clothing;Belo Horizonte;4;146,19;0,05;Completed;555,52
+ORD0200;2024-08-18;CUST0028;P008;Blender;Home & Kitchen;Rio de Janeiro;1;289,11;0,0;Completed;289,11
+ORD0201;2024-08-16;CUST0287;P003;Headphones;Electronics;Curitiba;5;337,76;0,1;Completed;1519,92
+ORD0202;2024-07-13;CUST0133;P010;Running Shoes;Sports;Belo Horizonte;2;316,72;0,1;Completed;570,1
+ORD0203;2024-06-19;CUST0121;P008;Blender;Home & Kitchen;Curitiba;4;291,58;0,0;Completed;1166,32
+ORD0204;2024-06-23;CUST0156;P005;Desk;Furniture;Belo Horizonte;5;1208,04;0,1;Completed;5436,18
+ORD0205;2024-11-29;CUST0001;P011;Yoga Mat;Sports;Curitiba;2;83,21;0,0;Completed;166,42
+ORD0206;2024-09-01;CUST0276;P006;T-shirt;Clothing;Porto Alegre;3;62,61;0,05;Completed;178,44
+ORD0207;2024-08-03;CUST0185;P002;Smartphone;Electronics;Curitiba;3;1982,17;0,2;Completed;4757,21
+ORD0208;2024-10-20;CUST0234;P002;Smartphone;Electronics;Belo Horizonte;4;2035,33;0,0;Completed;8141,32
+ORD0209;2024-01-08;CUST0005;P007;Jeans;Clothing;Rio de Janeiro;2;140,65;0,1;Completed;253,17
+ORD0210;2024-11-06;CUST0026;P001;Laptop;Electronics;Sao Paulo;2;3412,01;0,0;Completed;6824,02
+ORD0211;2024-11-23;CUST0142;P011;Yoga Mat;Sports;Porto Alegre;1;93,41;0,1;Completed;84,07
+ORD0212;2024-12-26;CUST0063;P005;Desk;Furniture;Sao Paulo;2;1163,66;0,0;Completed;2327,32
+ORD0213;2024-06-17;CUST0098;P001;Laptop;Electronics;Porto Alegre;1;3759,53;0,1;Completed;3383,58
+ORD0214;2024-05-11;CUST0129;P006;T-shirt;Clothing;Sao Paulo;3;69,0;0,1;Completed;186,3
+ORD0215;2024-05-22;CUST0093;P005;Desk;Furniture;Sao Paulo;1;1167,95;0,0;Completed;1167,95
+ORD0216;2024-10-31;CUST0110;P001;Laptop;Electronics;Rio de Janeiro;1;3461,09;0,0;Completed;3461,09
+ORD0217;2024-09-21;CUST0117;P002;Smartphone;Electronics;Porto Alegre;3;2218,64;0,2;Completed;5324,74
+ORD0218;2024-06-01;CUST0228;P010;Running Shoes;Sports;Curitiba;4;297,54;0,05;Completed;1130,65
+ORD0219;2024-11-21;CUST0107;P007;Jeans;Clothing;Porto Alegre;2;156,46;0,05;Completed;297,27
+ORD0220;2024-10-18;CUST0275;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;3;439,21;0,0;Completed;1317,63
+ORD0221;2024-02-21;CUST0106;P004;Office Chair;Furniture;Belo Horizonte;3;923,03;0,05;Completed;2630,64
+ORD0222;2024-01-02;CUST0263;P002;Smartphone;Electronics;Belo Horizonte;1;2409,76;0,15;Completed;2048,3
+ORD0223;2024-02-08;CUST0298;P010;Running Shoes;Sports;Belo Horizonte;5;299,81;0,0;Completed;1499,05
+ORD0224;2024-09-19;CUST0141;P004;Office Chair;Furniture;Porto Alegre;1;828,5;0,05;Completed;787,08
+ORD0225;2024-08-07;CUST0121;P006;T-shirt;Clothing;Porto Alegre;1;68,82;0,1;Completed;61,94
+ORD0226;2024-03-12;CUST0019;P010;Running Shoes;Sports;Belo Horizonte;1;303,16;0,1;Completed;272,84
+ORD0227;2024-07-20;CUST0242;P007;Jeans;Clothing;Porto Alegre;1;137,87;0,1;Completed;124,08
+ORD0228;2024-04-17;CUST0293;P001;Laptop;Electronics;Curitiba;2;3481,02;0,05;Completed;6613,94
+ORD0229;2024-06-08;CUST0254;P007;Jeans;Clothing;Sao Paulo;3;141,96;0,0;Completed;425,88
+ORD0230;2024-11-15;CUST0125;P002;Smartphone;Electronics;Sao Paulo;3;2242,7;0,1;Completed;6055,29
+ORD0231;2024-10-06;CUST0288;P001;Laptop;Electronics;Porto Alegre;4;3723,09;0,1;Completed;13403,12
+ORD0232;2024-08-19;CUST0070;P004;Office Chair;Furniture;Sao Paulo;5;917,01;0,0;Completed;4585,05
+ORD0233;2024-07-14;CUST0027;P007;Jeans;Clothing;Porto Alegre;5;150,57;0,0;Completed;752,85
+ORD0234;2024-08-17;CUST0130;P008;Blender;Home & Kitchen;Belo Horizonte;2;290,09;0,0;Completed;580,18
+ORD0235;2024-04-11;CUST0150;P002;Smartphone;Electronics;Belo Horizonte;1;2418,01;0,05;Completed;2297,11
+ORD0236;2024-02-05;CUST0208;P010;Running Shoes;Sports;Rio de Janeiro;5;299,22;0,1;Completed;1346,49
+ORD0237;2024-02-24;CUST0144;P009;Coffee Maker;Home & Kitchen;Porto Alegre;4;436,28;0,1;Completed;1570,61
+ORD0238;2024-12-13;CUST0121;P007;Jeans;Clothing;Porto Alegre;3;139,57;0,2;Cancelled;334,97
+ORD0239;2024-08-18;CUST0142;P004;Office Chair;Furniture;Belo Horizonte;1;868,44;0,05;Completed;825,02
+ORD0240;2024-05-30;CUST0249;P001;Laptop;Electronics;Sao Paulo;2;3389,17;0,0;Completed;6778,34
+ORD0241;2024-11-26;CUST0262;P001;Laptop;Electronics;Curitiba;3;3427,89;0,05;Completed;9769,49
+ORD0242;2024-05-22;CUST0042;P006;T-shirt;Clothing;Rio de Janeiro;4;69,57;0,0;Cancelled;278,28
+ORD0243;2024-06-06;CUST0014;P003;Headphones;Electronics;Sao Paulo;2;375,76;0,15;Completed;638,79
+ORD0244;2024-06-11;CUST0256;P005;Desk;Furniture;Rio de Janeiro;2;1116,91;0,0;Cancelled;2233,82
+ORD0245;2024-10-07;CUST0110;P009;Coffee Maker;Home & Kitchen;Porto Alegre;5;482,58;0,15;Completed;2050,96
+ORD0246;2024-01-25;CUST0025;P004;Office Chair;Furniture;Belo Horizonte;5;827,48;0,0;Completed;4137,4
+ORD0247;2024-05-25;CUST0254;P004;Office Chair;Furniture;Rio de Janeiro;5;782,96;0,1;Completed;3523,32
+ORD0248;2024-10-13;CUST0267;P007;Jeans;Clothing;Rio de Janeiro;3;151,93;0,0;Completed;455,79
+ORD0249;2024-03-23;CUST0263;P008;Blender;Home & Kitchen;Belo Horizonte;1;259,97;0,0;Completed;259,97
+ORD0250;2024-09-16;CUST0221;P001;Laptop;Electronics;Belo Horizonte;4;3847,69;0,15;Completed;13082,15
+ORD0251;2024-05-03;CUST0007;P004;Office Chair;Furniture;Curitiba;2;787,22;0,15;Completed;1338,27
+ORD0252;2024-01-14;CUST0062;P006;T-shirt;Clothing;Curitiba;5;63,53;0,2;Completed;254,12
+ORD0253;2024-09-02;CUST0065;P005;Desk;Furniture;Porto Alegre;5;1262,47;0,0;Completed;6312,35
+ORD0254;2024-08-29;CUST0164;P005;Desk;Furniture;Sao Paulo;5;1314,21;0,15;Cancelled;5585,39
+ORD0255;2024-07-06;CUST0282;P003;Headphones;Electronics;Belo Horizonte;3;346,81;0,15;Completed;884,37
+ORD0256;2024-02-21;CUST0042;P002;Smartphone;Electronics;Porto Alegre;4;2266,75;0,15;Completed;7706,95
+ORD0257;2024-04-22;CUST0130;P010;Running Shoes;Sports;Belo Horizonte;1;294,54;0,1;Cancelled;265,09
+ORD0258;2024-01-10;CUST0203;P001;Laptop;Electronics;Rio de Janeiro;2;3176,9;0,15;Completed;5400,73
+ORD0259;2024-08-01;CUST0069;P008;Blender;Home & Kitchen;Belo Horizonte;1;286,38;0,0;Completed;286,38
+ORD0260;2024-03-27;CUST0109;P001;Laptop;Electronics;Curitiba;5;3183,48;0,0;Completed;15917,4
+ORD0261;2024-05-31;CUST0228;P008;Blender;Home & Kitchen;Curitiba;1;305,56;0,1;Completed;275,0
+ORD0262;2024-07-29;CUST0008;P004;Office Chair;Furniture;Rio de Janeiro;3;796,48;0,0;Completed;2389,44
+ORD0263;2024-04-20;CUST0049;P006;T-shirt;Clothing;Belo Horizonte;4;70,19;0,1;Completed;252,68
+ORD0264;2024-03-18;CUST0266;P004;Office Chair;Furniture;Porto Alegre;1;874,46;0,05;Completed;830,74
+ORD0265;2024-05-19;CUST0288;P004;Office Chair;Furniture;Belo Horizonte;3;931,59;0,1;Completed;2515,29
+ORD0266;2024-01-11;CUST0153;P002;Smartphone;Electronics;Curitiba;2;2128,84;0,15;Completed;3619,03
+ORD0267;2024-04-23;CUST0174;P010;Running Shoes;Sports;Sao Paulo;4;303,4;0,0;Completed;1213,6
+ORD0268;2024-05-01;CUST0149;P008;Blender;Home & Kitchen;Belo Horizonte;1;266,47;0,05;Completed;253,15
+ORD0269;2024-09-12;CUST0258;P011;Yoga Mat;Sports;Porto Alegre;3;85,85;0,05;Completed;244,67
+ORD0270;2024-10-09;CUST0278;P005;Desk;Furniture;Curitiba;2;1131,24;0,05;Completed;2149,36
+ORD0271;2024-07-07;CUST0030;P005;Desk;Furniture;Belo Horizonte;1;1202,01;0,0;Completed;1202,01
+ORD0272;2024-05-07;CUST0129;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;5;419,41;0,05;Completed;1992,2
+ORD0273;2024-01-03;CUST0010;P005;Desk;Furniture;Porto Alegre;1;1146,7;0,0;Completed;1146,7
+ORD0274;2024-08-06;CUST0086;P007;Jeans;Clothing;Rio de Janeiro;3;155,64;0,0;Completed;466,92
+ORD0275;2024-11-09;CUST0020;P010;Running Shoes;Sports;Curitiba;4;335,73;0,0;Cancelled;1342,92
+ORD0276;2024-08-10;CUST0020;P003;Headphones;Electronics;Rio de Janeiro;3;384,74;0,0;Completed;1154,22
+ORD0277;2024-08-14;CUST0202;P008;Blender;Home & Kitchen;Belo Horizonte;2;273,93;0,05;Completed;520,47
+ORD0278;2024-01-20;CUST0216;P009;Coffee Maker;Home & Kitchen;Porto Alegre;1;457,94;0,05;Completed;435,04
+ORD0279;2024-02-24;CUST0082;P010;Running Shoes;Sports;Curitiba;4;323,88;0,1;Completed;1165,97
+ORD0280;2024-10-31;CUST0117;P003;Headphones;Electronics;Belo Horizonte;3;319,1;0,0;Completed;957,3
+ORD0281;2024-06-21;CUST0116;P003;Headphones;Electronics;Sao Paulo;4;323,57;0,1;Completed;1164,85
+ORD0282;2024-09-07;CUST0198;P011;Yoga Mat;Sports;Belo Horizonte;3;94,21;0,0;Completed;282,63
+ORD0283;2024-08-27;CUST0137;P004;Office Chair;Furniture;Rio de Janeiro;3;881,6;0,2;Completed;2115,84
+ORD0284;2024-03-01;CUST0254;P005;Desk;Furniture;Porto Alegre;2;1160,28;0,0;Completed;2320,56
+ORD0285;2024-12-02;CUST0069;P006;T-shirt;Clothing;Porto Alegre;3;62,38;0,15;Completed;159,07
+ORD0286;2024-02-18;CUST0260;P005;Desk;Furniture;Rio de Janeiro;5;1189,96;0,05;Completed;5652,31
+ORD0287;2024-05-08;CUST0188;P003;Headphones;Electronics;Sao Paulo;1;315,49;0,0;Completed;315,49
+ORD0288;2024-05-31;CUST0220;P004;Office Chair;Furniture;Curitiba;1;927,62;0,0;Completed;927,62
+ORD0289;2024-08-07;CUST0205;P007;Jeans;Clothing;Belo Horizonte;2;143,16;0,1;Completed;257,69
+ORD0290;2024-10-27;CUST0021;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;4;408,03;0,0;Cancelled;1632,12
+ORD0291;2024-01-07;CUST0199;P002;Smartphone;Electronics;Porto Alegre;2;2302,28;0,05;Completed;4374,33
+ORD0292;2024-06-02;CUST0021;P010;Running Shoes;Sports;Rio de Janeiro;4;338,41;0,1;Completed;1218,28
+ORD0293;2024-05-10;CUST0161;P005;Desk;Furniture;Rio de Janeiro;2;1125,89;0,0;Completed;2251,78
+ORD0294;2024-07-14;CUST0152;P005;Desk;Furniture;Porto Alegre;2;1101,32;0,1;Completed;1982,38
+ORD0295;2024-01-28;CUST0098;P002;Smartphone;Electronics;Rio de Janeiro;2;2218,72;0,1;Completed;3993,7
+ORD0296;2024-11-25;CUST0098;P001;Laptop;Electronics;Curitiba;5;3248,67;0,1;Completed;14619,02
+ORD0297;2024-03-26;CUST0138;P007;Jeans;Clothing;Curitiba;4;136,87;0,05;Completed;520,11
+ORD0298;2024-11-14;CUST0068;P003;Headphones;Electronics;Belo Horizonte;1;329,1;0,0;Completed;329,1
+ORD0299;2024-05-22;CUST0168;P006;T-shirt;Clothing;Rio de Janeiro;5;67,08;0,0;Completed;335,4
+ORD0300;2024-03-06;CUST0042;P010;Running Shoes;Sports;Belo Horizonte;1;294,03;0,0;Completed;294,03
+ORD0301;2024-09-18;CUST0197;P003;Headphones;Electronics;Curitiba;4;346,62;0,0;Completed;1386,48
+ORD0302;2024-09-24;CUST0085;P011;Yoga Mat;Sports;Unknown;2;82,69;0,0;Completed;165,38
+ORD0303;2024-07-28;CUST0259;P008;Blender;Home & Kitchen;Curitiba;2;277,07;0,05;Completed;526,43
+ORD0304;2024-12-28;CUST0176;P002;Smartphone;Electronics;Curitiba;1;2243,17;0,0;Completed;2243,17
+ORD0305;2024-09-16;CUST0016;P005;Desk;Furniture;Sao Paulo;3;1291,78;0,15;Completed;3294,04
+ORD0306;2024-01-21;CUST0059;P007;Jeans;Clothing;Curitiba;5;144,69;0,2;Cancelled;578,76
+ORD0307;2024-01-25;CUST0133;P005;Desk;Furniture;Curitiba;3;1206,58;0,1;Cancelled;3257,77
+ORD0308;2024-05-13;CUST0213;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;3;473,36;0,2;Cancelled;1136,06
+ORD0309;2024-05-10;CUST0248;P006;T-shirt;Clothing;Rio de Janeiro;4;62,86;0,0;Completed;251,44
+ORD0310;2024-06-11;CUST0075;P001;Laptop;Electronics;Sao Paulo;4;3783,75;0,1;Completed;13621,5
+ORD0311;2024-06-24;CUST0289;P007;Jeans;Clothing;Belo Horizonte;1;160,24;0,05;Cancelled;152,23
+ORD0312;2024-03-06;CUST0201;P002;Smartphone;Electronics;Belo Horizonte;3;2281,98;0,0;Completed;6845,94
+ORD0313;2024-09-03;CUST0191;P001;Laptop;Electronics;Porto Alegre;3;3635,91;0,05;Completed;10362,34
+ORD0314;2024-11-08;CUST0039;P003;Headphones;Electronics;Sao Paulo;5;343,58;0,1;Cancelled;1546,11
+ORD0315;2024-09-08;CUST0219;P003;Headphones;Electronics;Curitiba;5;377,92;0,1;Completed;1700,64
+ORD0316;2024-12-19;CUST0084;P011;Yoga Mat;Sports;Sao Paulo;4;87,87;0,0;Completed;351,48
+ORD0317;2024-12-09;CUST0110;P009;Coffee Maker;Home & Kitchen;Curitiba;2;491,96;0,0;Completed;983,92
+ORD0318;2024-10-01;CUST0073;P003;Headphones;Electronics;Curitiba;1;373,76;0,2;Completed;299,01
+ORD0319;2024-04-30;CUST0164;P007;Jeans;Clothing;Sao Paulo;4;154,05;0,05;Completed;585,39
+ORD0320;2024-11-15;CUST0227;P009;Coffee Maker;Home & Kitchen;Sao Paulo;1;447,19;0,0;Completed;447,19
+ORD0321;2024-11-29;CUST0125;P011;Yoga Mat;Sports;Sao Paulo;1;81,87;0,15;Completed;69,59
+ORD0322;2024-05-06;CUST0267;P008;Blender;Home & Kitchen;Rio de Janeiro;5;298,94;0,0;Completed;1494,7
+ORD0323;2024-09-11;CUST0201;P005;Desk;Furniture;Porto Alegre;5;1095,27;0,15;Completed;4654,9
+ORD0324;2024-11-19;CUST0076;P009;Coffee Maker;Home & Kitchen;Sao Paulo;3;479,64;0,15;Completed;1223,08
+ORD0325;2024-01-26;CUST0276;P003;Headphones;Electronics;Sao Paulo;4;346,04;0,1;Completed;1245,74
+ORD0326;2024-05-11;CUST0194;P003;Headphones;Electronics;Rio de Janeiro;4;322,3;0,0;Completed;1289,2
+ORD0327;2024-12-26;CUST0210;P011;Yoga Mat;Sports;Sao Paulo;1;85,84;0,05;Cancelled;81,55
+ORD0328;2024-08-05;CUST0093;P006;T-shirt;Clothing;Porto Alegre;3;60,32;0,0;Cancelled;180,96
+ORD0329;2024-12-20;CUST0189;P001;Laptop;Electronics;Sao Paulo;3;3463,23;0,05;Completed;9870,21
+ORD0330;2024-07-08;CUST0245;P001;Laptop;Electronics;Sao Paulo;3;3740,75;0,0;Completed;11222,25
+ORD0331;2024-12-28;CUST0277;P010;Running Shoes;Sports;Curitiba;1;313,41;0,0;Completed;313,41
+ORD0332;2024-07-01;CUST0127;P011;Yoga Mat;Sports;Porto Alegre;1;81,53;0,1;Completed;73,38
+ORD0333;2024-06-16;CUST0109;P001;Laptop;Electronics;Belo Horizonte;4;3660,9;0,15;Completed;12447,06
+ORD0334;2024-10-27;CUST0174;P001;Laptop;Electronics;Porto Alegre;2;3818,54;0,15;Completed;6491,52
+ORD0335;2024-06-25;CUST0127;P007;Jeans;Clothing;Belo Horizonte;4;155,6;0,0;Completed;622,4
+ORD0336;2024-05-26;CUST0243;P002;Smartphone;Electronics;Sao Paulo;4;2221,82;0,15;Completed;7554,19
+ORD0337;2024-09-14;CUST0266;P007;Jeans;Clothing;Rio de Janeiro;5;155,36;0,0;Completed;776,8
+ORD0338;2024-04-27;CUST0155;P003;Headphones;Electronics;Porto Alegre;1;357,88;0,15;Completed;304,2
+ORD0339;2024-04-02;CUST0268;P002;Smartphone;Electronics;Curitiba;3;2214,95;0,0;Completed;6644,85
+ORD0340;2024-11-16;CUST0127;P011;Yoga Mat;Sports;Sao Paulo;5;88,19;0,15;Completed;374,81
+ORD0341;2024-10-20;CUST0073;P007;Jeans;Clothing;Porto Alegre;4;146,62;0,15;Completed;498,51
+ORD0342;2024-05-01;CUST0172;P006;T-shirt;Clothing;Sao Paulo;4;61,44;0,0;Completed;245,76
+ORD0343;2024-12-25;CUST0100;P007;Jeans;Clothing;Belo Horizonte;3;152,47;0,0;Completed;457,41
+ORD0344;2024-06-15;CUST0056;P001;Laptop;Electronics;Sao Paulo;2;3266,8;0,05;Completed;6206,92
+ORD0345;2024-02-16;CUST0126;P001;Laptop;Electronics;Curitiba;4;3387,84;0,05;Completed;12873,79
+ORD0346;2024-10-20;CUST0031;P001;Laptop;Electronics;Belo Horizonte;5;3521,76;0,15;Completed;14967,48
+ORD0347;2024-12-30;CUST0075;P001;Laptop;Electronics;Porto Alegre;2;3489,91;0,0;Completed;6979,82
+ORD0348;2024-06-02;CUST0051;P004;Office Chair;Furniture;Rio de Janeiro;3;800,51;0,15;Completed;2041,3
+ORD0349;2024-11-10;CUST0125;P006;T-shirt;Clothing;Porto Alegre;5;64,46;0,0;Cancelled;322,3
+ORD0350;2024-05-03;CUST0201;P010;Running Shoes;Sports;Sao Paulo;5;318,34;0,05;Cancelled;1512,11
+ORD0351;2024-05-05;CUST0069;P011;Yoga Mat;Sports;Porto Alegre;4;81,56;0,2;Completed;260,99
+ORD0352;2024-10-31;CUST0042;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;5;453,75;0,1;Completed;2041,88
+ORD0353;2024-09-06;CUST0139;P003;Headphones;Electronics;Belo Horizonte;1;350,52;0,1;Completed;315,47
+ORD0354;2024-04-01;CUST0273;P003;Headphones;Electronics;Unknown;5;346,08;0,1;Completed;1557,36
+ORD0355;2024-04-13;CUST0008;P002;Smartphone;Electronics;Belo Horizonte;1;2328,71;0,05;Completed;2212,27
+ORD0356;2024-05-24;CUST0117;P005;Desk;Furniture;Rio de Janeiro;5;1210,33;0,0;Cancelled;6051,65
+ORD0357;2024-11-05;CUST0005;P011;Yoga Mat;Sports;Sao Paulo;5;89,25;0,0;Completed;446,25
+ORD0358;2024-01-20;CUST0147;P008;Blender;Home & Kitchen;Rio de Janeiro;1;301,12;0,15;Completed;255,95
+ORD0359;2024-12-17;CUST0203;P004;Office Chair;Furniture;Sao Paulo;2;848,54;0,05;Completed;1612,23
+ORD0360;2024-08-29;CUST0175;P003;Headphones;Electronics;Belo Horizonte;1;375,59;0,2;Completed;300,47
+ORD0361;2024-12-30;CUST0225;P007;Jeans;Clothing;Curitiba;3;141,01;0,0;Completed;423,03
+ORD0362;2024-11-18;CUST0208;P006;T-shirt;Clothing;Rio de Janeiro;3;58,9;0,2;Completed;141,36
+ORD0363;2024-12-14;CUST0277;P006;T-shirt;Clothing;Belo Horizonte;3;69,84;0,05;Completed;199,04
+ORD0364;2024-06-17;CUST0019;P002;Smartphone;Electronics;Rio de Janeiro;3;2072,71;0,2;Completed;4974,5
+ORD0365;2024-10-08;CUST0292;P008;Blender;Home & Kitchen;Sao Paulo;1;257,03;0,0;Completed;257,03
+ORD0366;2024-01-01;CUST0201;P005;Desk;Furniture;Sao Paulo;5;1081,36;0,15;Completed;4595,78
+ORD0367;2024-02-04;CUST0260;P004;Office Chair;Furniture;Curitiba;2;782,75;0,0;Completed;1565,5
+ORD0368;2024-03-12;CUST0045;P003;Headphones;Electronics;Porto Alegre;3;359,25;0,05;Completed;1023,86
+ORD0369;2024-05-02;CUST0144;P003;Headphones;Electronics;Belo Horizonte;2;320,38;0,05;Completed;608,72
+ORD0370;2024-01-13;CUST0120;P002;Smartphone;Electronics;Curitiba;4;2359,9;0,05;Completed;8967,62
+ORD0371;2024-08-08;CUST0269;P006;T-shirt;Clothing;Porto Alegre;5;69,45;0,05;Completed;329,89
+ORD0372;2024-02-22;CUST0023;P003;Headphones;Electronics;Rio de Janeiro;3;360,35;0,0;Cancelled;1081,05
+ORD0373;2024-02-23;CUST0053;P010;Running Shoes;Sports;Belo Horizonte;4;328,77;0,05;Completed;1249,33
+ORD0374;2024-09-20;CUST0248;P011;Yoga Mat;Sports;Rio de Janeiro;2;88,23;0,0;Cancelled;176,46
+ORD0375;2024-12-26;CUST0154;P011;Yoga Mat;Sports;Rio de Janeiro;4;88,24;0,0;Completed;352,96
+ORD0376;2024-10-20;CUST0157;P006;T-shirt;Clothing;Belo Horizonte;1;59,31;0,15;Completed;50,41
+ORD0377;2024-04-30;CUST0100;P011;Yoga Mat;Sports;Rio de Janeiro;1;83,34;0,05;Completed;79,17
+ORD0378;2024-05-20;CUST0186;P003;Headphones;Electronics;Rio de Janeiro;3;378,7;0,0;Cancelled;1136,1
+ORD0379;2024-11-11;CUST0213;P001;Laptop;Electronics;Porto Alegre;3;3740,97;0,1;Completed;10100,62
+ORD0380;2024-01-13;CUST0281;P011;Yoga Mat;Sports;Sao Paulo;5;98,39;0,1;Cancelled;442,76
+ORD0381;2024-12-05;CUST0028;P005;Desk;Furniture;Sao Paulo;3;1232,24;0,2;Completed;2957,38
+ORD0382;2024-10-29;CUST0013;P003;Headphones;Electronics;Rio de Janeiro;2;359,41;0,1;Completed;646,94
+ORD0383;2024-04-09;CUST0100;P005;Desk;Furniture;Porto Alegre;2;1130,88;0,1;Completed;2035,58
+ORD0384;2024-06-21;CUST0274;P007;Jeans;Clothing;Curitiba;5;143,86;0,0;Completed;719,3
+ORD0385;2024-05-28;CUST0252;P006;T-shirt;Clothing;Curitiba;4;67,77;0,0;Cancelled;271,08
+ORD0386;2024-01-13;CUST0053;P003;Headphones;Electronics;Rio de Janeiro;1;372,63;0,1;Completed;335,37
+ORD0387;2024-04-11;CUST0111;P005;Desk;Furniture;Sao Paulo;2;1084,64;0,0;Completed;2169,28
+ORD0388;2024-01-24;CUST0230;P006;T-shirt;Clothing;Sao Paulo;5;64,53;0,2;Completed;258,12
+ORD0389;2024-04-28;CUST0283;P004;Office Chair;Furniture;Porto Alegre;4;810,43;0,0;Completed;3241,72
+ORD0390;2024-07-05;CUST0153;P010;Running Shoes;Sports;Sao Paulo;1;295,69;0,0;Completed;295,69
+ORD0391;2024-01-07;CUST0135;P007;Jeans;Clothing;Belo Horizonte;4;154,26;0,05;Completed;586,19
+ORD0392;2024-06-08;CUST0045;P003;Headphones;Electronics;Unknown;3;373,08;0,1;Completed;1007,32
+ORD0393;2024-04-13;CUST0205;P004;Office Chair;Furniture;Belo Horizonte;3;885,72;0,15;Completed;2258,59
+ORD0394;2024-08-05;CUST0096;P007;Jeans;Clothing;Belo Horizonte;4;163,73;0,15;Completed;556,68
+ORD0395;2024-11-26;CUST0199;P002;Smartphone;Electronics;Rio de Janeiro;4;2321,85;0,0;Completed;9287,4
+ORD0396;2024-01-26;CUST0181;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;1;475,32;0,05;Completed;451,55
+ORD0397;2024-11-16;CUST0057;P011;Yoga Mat;Sports;Sao Paulo;1;98,05;0,0;Completed;98,05
+ORD0398;2024-10-08;CUST0248;P002;Smartphone;Electronics;Sao Paulo;1;2389,47;0,05;Completed;2270,0
+ORD0399;2024-08-13;CUST0062;P002;Smartphone;Electronics;Rio de Janeiro;5;2397,59;0,2;Completed;9590,36
+ORD0400;2024-10-28;CUST0008;P010;Running Shoes;Sports;Belo Horizonte;5;317,35;0,05;Completed;1507,41
+ORD0401;2024-04-17;CUST0156;P011;Yoga Mat;Sports;Belo Horizonte;1;83,47;0,2;Completed;66,78
+ORD0402;2024-06-17;CUST0090;P006;T-shirt;Clothing;Sao Paulo;4;70,87;0,2;Completed;226,78
+ORD0403;2024-12-22;CUST0154;P011;Yoga Mat;Sports;Belo Horizonte;1;97,55;0,0;Completed;97,55
+ORD0404;2024-10-11;CUST0247;P003;Headphones;Electronics;Porto Alegre;3;339,85;0,1;Completed;917,6
+ORD0405;2024-01-08;CUST0187;P010;Running Shoes;Sports;Belo Horizonte;4;303,83;0,1;Completed;1093,79
+ORD0406;2024-08-29;CUST0101;P008;Blender;Home & Kitchen;Belo Horizonte;5;279,94;0,0;Completed;1399,7
+ORD0407;2024-09-11;CUST0055;P010;Running Shoes;Sports;Curitiba;3;290,95;0,15;Completed;741,92
+ORD0408;2024-04-10;CUST0010;P006;T-shirt;Clothing;Belo Horizonte;3;58,88;0,05;Completed;167,81
+ORD0409;2024-09-04;CUST0241;P009;Coffee Maker;Home & Kitchen;Curitiba;3;490,94;0,05;Completed;1399,18
+ORD0410;2024-04-26;CUST0017;P004;Office Chair;Furniture;Rio de Janeiro;3;774,81;0,05;Completed;2208,21
+ORD0411;2024-12-14;CUST0257;P004;Office Chair;Furniture;Rio de Janeiro;4;862,55;0,05;Completed;3277,69
+ORD0412;2024-12-30;CUST0105;P010;Running Shoes;Sports;Porto Alegre;4;294,52;0,05;Completed;1119,18
+ORD0413;2024-07-11;CUST0068;P010;Running Shoes;Sports;Porto Alegre;1;297,48;0,1;Completed;267,73
+ORD0414;2024-11-07;CUST0109;P011;Yoga Mat;Sports;Belo Horizonte;3;88,7;0,0;Completed;266,1
+ORD0415;2024-10-29;CUST0084;P007;Jeans;Clothing;Rio de Janeiro;2;161,78;0,05;Completed;307,38
+ORD0416;2024-04-18;CUST0046;P004;Office Chair;Furniture;Belo Horizonte;5;808,4;0,0;Completed;4042,0
+ORD0417;2024-11-19;CUST0280;P009;Coffee Maker;Home & Kitchen;Curitiba;2;489,67;0,05;Completed;930,37
+ORD0418;2024-07-07;CUST0290;P008;Blender;Home & Kitchen;Sao Paulo;4;290,84;0,1;Completed;1047,02
+ORD0419;2024-06-29;CUST0169;P001;Laptop;Electronics;Sao Paulo;4;3447,66;0,0;Completed;13790,64
+ORD0420;2024-07-06;CUST0085;P009;Coffee Maker;Home & Kitchen;Porto Alegre;5;470,08;0,0;Completed;2350,4
+ORD0421;2024-01-03;CUST0239;P004;Office Chair;Furniture;Sao Paulo;3;773,82;0,0;Completed;2321,46
+ORD0422;2024-12-08;CUST0206;P005;Desk;Furniture;Sao Paulo;2;1152,7;0,0;Completed;2305,4
+ORD0423;2024-02-16;CUST0149;P011;Yoga Mat;Sports;Sao Paulo;4;98,73;0,1;Completed;355,43
+ORD0424;2024-10-13;CUST0009;P011;Yoga Mat;Sports;Sao Paulo;2;93,77;0,0;Completed;187,54
+ORD0425;2024-01-10;CUST0123;P011;Yoga Mat;Sports;Porto Alegre;1;87,51;0,15;Completed;74,38
+ORD0426;2024-04-11;CUST0088;P005;Desk;Furniture;Rio de Janeiro;1;1203,33;0,05;Completed;1143,16
+ORD0427;2024-09-27;CUST0126;P008;Blender;Home & Kitchen;Sao Paulo;3;297,0;0,0;Completed;891,0
+ORD0428;2024-09-07;CUST0245;P001;Laptop;Electronics;Curitiba;1;3286,67;0,0;Completed;3286,67
+ORD0429;2024-03-03;CUST0065;P001;Laptop;Electronics;Sao Paulo;1;3658,94;0,05;Cancelled;3475,99
+ORD0430;2024-09-27;CUST0043;P003;Headphones;Electronics;Belo Horizonte;4;370,03;0,1;Completed;1332,11
+ORD0431;2024-03-18;CUST0216;P003;Headphones;Electronics;Curitiba;2;358,11;0,15;Completed;608,79
+ORD0432;2024-06-16;CUST0013;P003;Headphones;Electronics;Curitiba;3;345,07;0,0;Completed;1035,21
+ORD0433;2024-07-22;CUST0151;P003;Headphones;Electronics;Rio de Janeiro;3;376,55;0,15;Completed;960,2
+ORD0434;2024-01-22;CUST0114;P008;Blender;Home & Kitchen;Curitiba;3;280,08;0,0;Completed;840,24
+ORD0435;2024-07-28;CUST0126;P003;Headphones;Electronics;Porto Alegre;4;362,18;0,0;Completed;1448,72
+ORD0436;2024-10-09;CUST0069;P011;Yoga Mat;Sports;Curitiba;4;92,18;0,0;Completed;368,72
+ORD0437;2024-11-13;CUST0047;P001;Laptop;Electronics;Belo Horizonte;2;3452,94;0,1;Completed;6215,29
+ORD0438;2024-05-20;CUST0128;P001;Laptop;Electronics;Porto Alegre;4;3620,04;0,1;Completed;13032,14
+ORD0439;2024-01-29;CUST0062;P008;Blender;Home & Kitchen;Porto Alegre;2;304,71;0,15;Completed;518,01
+ORD0440;2024-01-17;CUST0082;P010;Running Shoes;Sports;Rio de Janeiro;2;350,12;0,0;Completed;700,24
+ORD0441;2024-08-06;CUST0291;P004;Office Chair;Furniture;Rio de Janeiro;1;832,59;0,0;Completed;832,59
+ORD0442;2024-03-14;CUST0230;P008;Blender;Home & Kitchen;Belo Horizonte;2;285,8;0,0;Completed;571,6
+ORD0443;2024-02-10;CUST0290;P011;Yoga Mat;Sports;Curitiba;4;91,78;0,1;Completed;330,41
+ORD0444;2024-07-25;CUST0233;P006;T-shirt;Clothing;Curitiba;3;67,29;0,1;Completed;181,68
+ORD0445;2024-02-28;CUST0266;P004;Office Chair;Furniture;Porto Alegre;4;765,34;0,0;Completed;3061,36
+ORD0446;2024-05-29;CUST0098;P011;Yoga Mat;Sports;Sao Paulo;3;96,89;0,0;Completed;290,67
+ORD0447;2024-10-27;CUST0138;P001;Laptop;Electronics;Belo Horizonte;4;3805,39;0,05;Cancelled;14460,48
+ORD0448;2024-08-24;CUST0283;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;2;471,55;0,0;Completed;943,1
+ORD0449;2024-08-31;CUST0132;P003;Headphones;Electronics;Porto Alegre;3;320,9;0,15;Completed;818,3
+ORD0450;2024-03-13;CUST0041;P011;Yoga Mat;Sports;Rio de Janeiro;3;81,16;0,05;Completed;231,31
+ORD0451;2024-07-30;CUST0047;P002;Smartphone;Electronics;Sao Paulo;5;2020,21;0,0;Completed;10101,05
+ORD0452;2024-12-31;CUST0161;P009;Coffee Maker;Home & Kitchen;Curitiba;5;411,94;0,15;Completed;1750,74
+ORD0453;2024-04-03;CUST0077;P002;Smartphone;Electronics;Curitiba;2;2369,38;0,0;Completed;4738,76
+ORD0454;2024-12-23;CUST0209;P010;Running Shoes;Sports;Sao Paulo;1;304,21;0,2;Completed;243,37
+ORD0455;2024-04-16;CUST0037;P006;T-shirt;Clothing;Sao Paulo;1;62,84;0,15;Cancelled;53,41
+ORD0456;2024-02-25;CUST0188;P002;Smartphone;Electronics;Rio de Janeiro;3;2179,91;0,1;Completed;5885,76
+ORD0457;2024-04-23;CUST0063;P008;Blender;Home & Kitchen;Curitiba;4;260,09;0,1;Completed;936,32
+ORD0458;2024-07-03;CUST0088;P010;Running Shoes;Sports;Belo Horizonte;5;307,27;0,05;Completed;1459,53
+ORD0459;2024-11-06;CUST0038;P001;Laptop;Electronics;Porto Alegre;3;3436,77;0,1;Completed;9279,28
+ORD0460;2024-07-20;CUST0084;P005;Desk;Furniture;Curitiba;4;1239,41;0,15;Completed;4213,99
+ORD0461;2024-03-09;CUST0023;P003;Headphones;Electronics;Sao Paulo;1;336,69;0,0;Completed;336,69
+ORD0462;2024-03-01;CUST0032;P005;Desk;Furniture;Porto Alegre;2;1278,85;0,1;Completed;2301,93
+ORD0463;2024-04-19;CUST0213;P004;Office Chair;Furniture;Porto Alegre;2;828,5;0,0;Completed;1657,0
+ORD0464;2024-01-06;CUST0261;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;3;479,6;0,0;Completed;1438,8
+ORD0465;2024-03-16;CUST0239;P007;Jeans;Clothing;Porto Alegre;3;147,44;0,0;Completed;442,32
+ORD0466;2024-05-20;CUST0104;P007;Jeans;Clothing;Porto Alegre;4;141,89;0,0;Completed;567,56
+ORD0467;2024-05-13;CUST0209;P002;Smartphone;Electronics;Curitiba;4;2206,57;0,0;Completed;8826,28
+ORD0468;2024-05-01;CUST0234;P010;Running Shoes;Sports;Belo Horizonte;2;328,62;0,05;Completed;624,38
+ORD0469;2024-07-24;CUST0137;P011;Yoga Mat;Sports;Sao Paulo;3;87,04;0,1;Completed;235,01
+ORD0470;2024-01-19;CUST0141;P001;Laptop;Electronics;Sao Paulo;3;3637,5;0,1;Completed;9821,25
+ORD0471;2024-04-02;CUST0295;P002;Smartphone;Electronics;Rio de Janeiro;5;2286,52;0,05;Cancelled;10860,97
+ORD0472;2024-03-11;CUST0103;P001;Laptop;Electronics;Porto Alegre;5;3424,3;0,15;Completed;14553,28
+ORD0473;2024-08-28;CUST0029;P001;Laptop;Electronics;Unknown;1;3750,12;0,1;Completed;3375,11
+ORD0474;2024-10-08;CUST0093;P011;Yoga Mat;Sports;Sao Paulo;4;96,87;0,1;Completed;348,73
+ORD0475;2024-12-01;CUST0206;P006;T-shirt;Clothing;Porto Alegre;1;64,81;0,0;Completed;64,81
+ORD0476;2024-05-26;CUST0030;P003;Headphones;Electronics;Sao Paulo;2;343,32;0,05;Completed;652,31
+ORD0477;2024-05-25;CUST0006;P008;Blender;Home & Kitchen;Belo Horizonte;3;267,73;0,0;Completed;803,19
+ORD0478;2024-12-25;CUST0082;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;4;481,31;0,05;Cancelled;1828,98
+ORD0479;2024-11-30;CUST0003;P006;T-shirt;Clothing;Curitiba;4;71,46;0,05;Completed;271,55
+ORD0480;2024-03-02;CUST0107;P007;Jeans;Clothing;Curitiba;4;148,93;0,1;Completed;536,15
+ORD0481;2024-03-02;CUST0207;P011;Yoga Mat;Sports;Sao Paulo;1;87,72;0,1;Completed;78,95
+ORD0482;2024-05-15;CUST0295;P004;Office Chair;Furniture;Rio de Janeiro;1;864,23;0,1;Completed;777,81
+ORD0483;2024-07-27;CUST0071;P004;Office Chair;Furniture;Belo Horizonte;3;879,1;0,1;Completed;2373,57
+ORD0484;2024-08-07;CUST0277;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;5;419,28;0,0;Completed;2096,4
+ORD0485;2024-09-01;CUST0016;P004;Office Chair;Furniture;Curitiba;2;817,17;0,05;Completed;1552,62
+ORD0486;2024-02-09;CUST0300;P009;Coffee Maker;Home & Kitchen;Curitiba;5;424,34;0,05;Cancelled;2015,61
+ORD0487;2024-08-05;CUST0224;P001;Laptop;Electronics;Sao Paulo;2;3243,56;0,05;Completed;6162,76
+ORD0488;2024-08-26;CUST0173;P006;T-shirt;Clothing;Belo Horizonte;3;70,71;0,1;Completed;190,92
+ORD0489;2024-04-19;CUST0207;P005;Desk;Furniture;Belo Horizonte;5;1237,13;0,15;Completed;5257,8
+ORD0490;2024-11-21;CUST0257;P007;Jeans;Clothing;Porto Alegre;4;158,21;0,1;Completed;569,56
+ORD0491;2024-03-10;CUST0120;P006;T-shirt;Clothing;Rio de Janeiro;5;69,93;0,0;Completed;349,65
+ORD0492;2024-08-04;CUST0077;P006;T-shirt;Clothing;Rio de Janeiro;3;65,18;0,1;Completed;175,99
+ORD0493;2024-09-20;CUST0027;P002;Smartphone;Electronics;Belo Horizonte;3;2337,59;0,1;Cancelled;6311,49
+ORD0494;2024-10-13;CUST0163;P011;Yoga Mat;Sports;Porto Alegre;3;95,52;0,15;Cancelled;243,58
+ORD0495;2024-10-17;CUST0291;P001;Laptop;Electronics;Rio de Janeiro;4;3774,2;0,15;Completed;12832,28
+ORD0496;2024-12-21;CUST0125;P001;Laptop;Electronics;Rio de Janeiro;3;3153,74;0,15;Completed;8042,04
+ORD0497;2024-01-25;CUST0074;P003;Headphones;Electronics;Porto Alegre;4;384,35;0,1;Completed;1383,66
+ORD0498;2024-06-01;CUST0183;P011;Yoga Mat;Sports;Belo Horizonte;4;91,25;0,15;Completed;310,25
+ORD0499;2024-07-09;CUST0246;P005;Desk;Furniture;Sao Paulo;3;1192,63;0,05;Completed;3399,0
+ORD0500;2024-06-14;CUST0155;P010;Running Shoes;Sports;Rio de Janeiro;1;320,26;0,15;Completed;272,22
+ORD0501;2024-03-15;CUST0182;P008;Blender;Home & Kitchen;Rio de Janeiro;5;287,37;0,0;Completed;1436,85
+ORD0502;2024-12-04;CUST0214;P006;T-shirt;Clothing;Rio de Janeiro;1;66,77;0,05;Completed;63,43
+ORD0503;2024-04-02;CUST0043;P001;Laptop;Electronics;Belo Horizonte;2;3163,4;0,1;Completed;5694,12
+ORD0504;2024-04-27;CUST0094;P008;Blender;Home & Kitchen;Porto Alegre;4;305,81;0,05;Completed;1162,08
+ORD0505;2024-10-19;CUST0299;P002;Smartphone;Electronics;Belo Horizonte;1;2101,89;0,15;Completed;1786,61
+ORD0506;2024-01-29;CUST0144;P008;Blender;Home & Kitchen;Curitiba;2;256,74;0,1;Cancelled;462,13
+ORD0507;2024-02-14;CUST0088;P007;Jeans;Clothing;Sao Paulo;3;161,58;0,0;Completed;484,74
+ORD0508;2024-06-27;CUST0264;P003;Headphones;Electronics;Porto Alegre;4;330,14;0,1;Completed;1188,5
+ORD0509;2024-08-18;CUST0011;P004;Office Chair;Furniture;Rio de Janeiro;5;930,81;0,15;Completed;3955,94
+ORD0510;2024-03-11;CUST0216;P002;Smartphone;Electronics;Rio de Janeiro;4;2053,97;0,05;Completed;7805,09
+ORD0511;2024-09-27;CUST0072;P004;Office Chair;Furniture;Belo Horizonte;5;855,08;0,2;Completed;3420,32
+ORD0512;2024-12-25;CUST0060;P008;Blender;Home & Kitchen;Rio de Janeiro;3;270,27;0,0;Completed;810,81
+ORD0513;2024-01-28;CUST0282;P007;Jeans;Clothing;Belo Horizonte;1;145,61;0,0;Cancelled;145,61
+ORD0514;2024-06-14;CUST0190;P002;Smartphone;Electronics;Porto Alegre;2;2344,9;0,1;Completed;4220,82
+ORD0515;2024-09-22;CUST0065;P006;T-shirt;Clothing;Rio de Janeiro;3;58,54;0,0;Completed;175,62
+ORD0516;2024-04-15;CUST0176;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;5;442,67;0,05;Completed;2102,68
+ORD0517;2024-04-15;CUST0219;P003;Headphones;Electronics;Porto Alegre;5;384,26;0,15;Completed;1633,1
+ORD0518;2024-11-28;CUST0249;P002;Smartphone;Electronics;Curitiba;1;2196,73;0,05;Completed;2086,89
+ORD0519;2024-10-21;CUST0229;P002;Smartphone;Electronics;Curitiba;4;2163,1;0,05;Cancelled;8219,78
+ORD0520;2024-07-06;CUST0072;P009;Coffee Maker;Home & Kitchen;Sao Paulo;2;483,26;0,05;Cancelled;918,19
+ORD0521;2024-07-09;CUST0246;P011;Yoga Mat;Sports;Rio de Janeiro;4;83,98;0,15;Completed;285,53
+ORD0522;2024-04-05;CUST0006;P006;T-shirt;Clothing;Curitiba;5;66,0;0,05;Completed;313,5
+ORD0523;2024-09-12;CUST0190;P010;Running Shoes;Sports;Belo Horizonte;3;309,6;0,1;Completed;835,92
+ORD0524;2024-05-06;CUST0013;P009;Coffee Maker;Home & Kitchen;Porto Alegre;1;427,74;0,05;Completed;406,35
+ORD0525;2024-04-23;CUST0273;P010;Running Shoes;Sports;Rio de Janeiro;1;328,15;0,1;Completed;295,33
+ORD0526;2024-08-06;CUST0111;P008;Blender;Home & Kitchen;Curitiba;5;304,9;0,1;Cancelled;1372,05
+ORD0527;2024-08-16;CUST0246;P007;Jeans;Clothing;Rio de Janeiro;1;158,18;0,1;Completed;142,36
+ORD0528;2024-10-12;CUST0269;P001;Laptop;Electronics;Curitiba;5;3688,61;0,0;Completed;18443,05
+ORD0529;2024-04-03;CUST0143;P005;Desk;Furniture;Sao Paulo;5;1090,91;0,1;Completed;4909,1
+ORD0530;2024-07-20;CUST0137;P004;Office Chair;Furniture;Sao Paulo;4;850,22;0,0;Completed;3400,88
+ORD0531;2024-11-26;CUST0237;P003;Headphones;Electronics;Sao Paulo;2;330,09;0,0;Completed;660,18
+ORD0532;2024-03-12;CUST0190;P009;Coffee Maker;Home & Kitchen;Curitiba;3;420,61;0,0;Completed;1261,83
+ORD0533;2024-04-12;CUST0213;P011;Yoga Mat;Sports;Porto Alegre;3;92,73;0,0;Completed;278,19
+ORD0534;2024-02-25;CUST0200;P008;Blender;Home & Kitchen;Sao Paulo;2;269,81;0,1;Completed;485,66
+ORD0535;2024-08-14;CUST0063;P001;Laptop;Electronics;Curitiba;3;3391,56;0,0;Cancelled;10174,68
+ORD0536;2024-06-04;CUST0038;P007;Jeans;Clothing;Porto Alegre;3;153,34;0,1;Completed;414,02
+ORD0537;2024-08-31;CUST0269;P003;Headphones;Electronics;Belo Horizonte;4;339,53;0,15;Completed;1154,4
+ORD0538;2024-10-14;CUST0186;P010;Running Shoes;Sports;Belo Horizonte;1;333,2;0,1;Cancelled;299,88
+ORD0539;2024-08-25;CUST0097;P003;Headphones;Electronics;Belo Horizonte;3;374,47;0,0;Cancelled;1123,41
+ORD0540;2024-07-26;CUST0184;P008;Blender;Home & Kitchen;Belo Horizonte;2;304,0;0,0;Completed;608,0
+ORD0541;2024-05-21;CUST0118;P008;Blender;Home & Kitchen;Rio de Janeiro;5;277,02;0,05;Completed;1315,84
+ORD0542;2024-10-08;CUST0005;P009;Coffee Maker;Home & Kitchen;Curitiba;4;472,85;0,05;Cancelled;1796,83
+ORD0543;2024-10-09;CUST0282;P010;Running Shoes;Sports;Rio de Janeiro;1;288,44;0,0;Completed;288,44
+ORD0544;2024-12-16;CUST0183;P007;Jeans;Clothing;Sao Paulo;2;161,87;0,15;Completed;275,18
+ORD0545;2024-03-29;CUST0116;P006;T-shirt;Clothing;Porto Alegre;2;60,9;0,0;Completed;121,8
+ORD0546;2024-10-20;CUST0025;P001;Laptop;Electronics;Porto Alegre;5;3494,97;0,0;Completed;17474,85
+ORD0547;2024-03-10;CUST0091;P008;Blender;Home & Kitchen;Rio de Janeiro;1;254,53;0,0;Completed;254,53
+ORD0548;2024-08-14;CUST0200;P005;Desk;Furniture;Curitiba;3;1178,61;0,05;Cancelled;3359,04
+ORD0549;2024-08-24;CUST0197;P005;Desk;Furniture;Sao Paulo;5;1191,36;0,0;Cancelled;5956,8
+ORD0550;2024-08-27;CUST0108;P011;Yoga Mat;Sports;Belo Horizonte;2;94,3;0,0;Completed;188,6
+ORD0551;2024-03-30;CUST0220;P007;Jeans;Clothing;Rio de Janeiro;5;152,04;0,0;Cancelled;760,2
+ORD0552;2024-04-12;CUST0052;P009;Coffee Maker;Home & Kitchen;Sao Paulo;2;443,81;0,0;Completed;887,62
+ORD0553;2024-10-04;CUST0182;P001;Laptop;Electronics;Rio de Janeiro;5;3579,78;0,0;Completed;17898,9
+ORD0554;2024-11-30;CUST0190;P005;Desk;Furniture;Sao Paulo;1;1098,35;0,15;Completed;933,6
+ORD0555;2024-03-30;CUST0262;P001;Laptop;Electronics;Curitiba;5;3209,28;0,05;Completed;15244,08
+ORD0556;2024-05-22;CUST0163;P008;Blender;Home & Kitchen;Belo Horizonte;5;273,54;0,05;Completed;1299,32
+ORD0557;2024-07-15;CUST0005;P006;T-shirt;Clothing;Rio de Janeiro;2;67,39;0,05;Completed;128,04
+ORD0558;2024-07-16;CUST0014;P004;Office Chair;Furniture;Porto Alegre;3;876,59;0,2;Completed;2103,82
+ORD0559;2024-02-13;CUST0100;P007;Jeans;Clothing;Curitiba;3;158,21;0,0;Completed;474,63
+ORD0560;2024-02-13;CUST0288;P010;Running Shoes;Sports;Belo Horizonte;5;316,04;0,15;Cancelled;1343,17
+ORD0561;2024-11-09;CUST0187;P006;T-shirt;Clothing;Belo Horizonte;5;59,41;0,0;Completed;297,05
+ORD0562;2024-12-11;CUST0136;P004;Office Chair;Furniture;Curitiba;4;853,11;0,1;Completed;3071,2
+ORD0563;2024-02-14;CUST0125;P009;Coffee Maker;Home & Kitchen;Sao Paulo;2;484,76;0,15;Cancelled;824,09
+ORD0564;2024-10-12;CUST0060;P003;Headphones;Electronics;Rio de Janeiro;2;337,04;0,0;Completed;674,08
+ORD0565;2024-06-21;CUST0108;P011;Yoga Mat;Sports;Belo Horizonte;5;81,15;0,15;Completed;344,89
+ORD0566;2024-01-06;CUST0229;P007;Jeans;Clothing;Rio de Janeiro;2;160,33;0,05;Completed;304,63
+ORD0567;2024-01-06;CUST0096;P004;Office Chair;Furniture;Belo Horizonte;3;860,1;0,15;Completed;2193,26
+ORD0568;2024-12-02;CUST0291;P004;Office Chair;Furniture;Sao Paulo;1;800,85;0,15;Completed;680,72
+ORD0569;2024-05-29;CUST0076;P004;Office Chair;Furniture;Sao Paulo;3;842,25;0,1;Cancelled;2274,08
+ORD0570;2024-04-22;CUST0175;P002;Smartphone;Electronics;Porto Alegre;3;2392,95;0,0;Completed;7178,85
+ORD0571;2024-09-12;CUST0025;P004;Office Chair;Furniture;Rio de Janeiro;1;792,24;0,0;Completed;792,24
+ORD0572;2024-11-09;CUST0266;P010;Running Shoes;Sports;Curitiba;1;291,35;0,0;Completed;291,35
+ORD0573;2024-01-11;CUST0064;P011;Yoga Mat;Sports;Rio de Janeiro;5;96,03;0,2;Completed;384,12
+ORD0574;2024-10-24;CUST0018;P009;Coffee Maker;Home & Kitchen;Curitiba;2;409,56;0,0;Completed;819,12
+ORD0575;2024-07-05;CUST0239;P005;Desk;Furniture;Rio de Janeiro;2;1307,22;0,1;Completed;2353,0
+ORD0576;2024-09-02;CUST0072;P004;Office Chair;Furniture;Belo Horizonte;2;775,52;0,05;Completed;1473,49
+ORD0577;2024-01-17;CUST0090;P011;Yoga Mat;Sports;Belo Horizonte;5;86,72;0,0;Completed;433,6
+ORD0578;2024-12-14;CUST0071;P006;T-shirt;Clothing;Porto Alegre;4;62,24;0,0;Completed;248,96
+ORD0579;2024-05-03;CUST0275;P004;Office Chair;Furniture;Porto Alegre;5;840,16;0,0;Completed;4200,8
+ORD0580;2024-01-21;CUST0164;P010;Running Shoes;Sports;Rio de Janeiro;5;336,65;0,0;Completed;1683,25
+ORD0581;2024-08-11;CUST0034;P006;T-shirt;Clothing;Porto Alegre;2;59,24;0,0;Completed;118,48
+ORD0582;2024-11-13;CUST0231;P011;Yoga Mat;Sports;Curitiba;5;87,21;0,0;Completed;436,05
+ORD0583;2024-02-07;CUST0050;P003;Headphones;Electronics;Rio de Janeiro;4;362,07;0,15;Completed;1231,04
+ORD0584;2024-12-08;CUST0290;P005;Desk;Furniture;Porto Alegre;3;1166,51;0,1;Completed;3149,58
+ORD0585;2024-05-16;CUST0159;P010;Running Shoes;Sports;Curitiba;2;320,3;0,0;Completed;640,6
+ORD0586;2024-12-06;CUST0187;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;5;462,41;0,2;Completed;1849,64
+ORD0587;2024-05-09;CUST0245;P010;Running Shoes;Sports;Curitiba;2;309,14;0,05;Completed;587,37
+ORD0588;2024-05-08;CUST0095;P008;Blender;Home & Kitchen;Unknown;3;283,15;0,1;Completed;764,5
+ORD0589;2024-12-13;CUST0106;P001;Laptop;Electronics;Belo Horizonte;1;3606,47;0,1;Completed;3245,82
+ORD0590;2024-10-22;CUST0283;P003;Headphones;Electronics;Sao Paulo;2;362,17;0,15;Completed;615,69
+ORD0591;2024-10-31;CUST0281;P006;T-shirt;Clothing;Porto Alegre;2;65,98;0,05;Completed;125,36
+ORD0592;2024-10-24;CUST0246;P010;Running Shoes;Sports;Porto Alegre;1;328,02;0,1;Completed;295,22
+ORD0593;2024-07-03;CUST0160;P006;T-shirt;Clothing;Rio de Janeiro;4;67,62;0,0;Cancelled;270,48
+ORD0594;2024-11-17;CUST0226;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;4;434,88;0,05;Completed;1652,54
+ORD0595;2024-02-29;CUST0159;P007;Jeans;Clothing;Sao Paulo;2;147,79;0,05;Completed;280,8
+ORD0596;2024-10-11;CUST0110;P002;Smartphone;Electronics;Porto Alegre;4;2240,49;0,0;Completed;8961,96
+ORD0597;2024-08-03;CUST0036;P002;Smartphone;Electronics;Porto Alegre;2;2383,6;0,05;Completed;4528,84
+ORD0598;2024-01-22;CUST0164;P004;Office Chair;Furniture;Belo Horizonte;5;918,04;0,1;Completed;4131,18
+ORD0599;2024-10-20;CUST0149;P002;Smartphone;Electronics;Curitiba;3;2091,6;0,1;Completed;5647,32
+ORD0600;2024-07-24;CUST0199;P007;Jeans;Clothing;Belo Horizonte;4;144,71;0,1;Completed;520,96
+ORD0601;2024-06-17;CUST0104;P001;Laptop;Electronics;Curitiba;4;3604,85;0,0;Completed;14419,4
+ORD0602;2024-12-18;CUST0190;P011;Yoga Mat;Sports;Porto Alegre;5;93,82;0,0;Completed;469,1
+ORD0603;2024-07-30;CUST0095;P011;Yoga Mat;Sports;Rio de Janeiro;3;97,18;0,05;Completed;276,96
+ORD0604;2024-08-06;CUST0096;P005;Desk;Furniture;Curitiba;1;1173,58;0,05;Completed;1114,9
+ORD0605;2024-02-23;CUST0046;P007;Jeans;Clothing;Curitiba;3;150,96;0,15;Cancelled;384,95
+ORD0606;2024-02-27;CUST0008;P001;Laptop;Electronics;Porto Alegre;5;3364,02;0,05;Completed;15979,09
+ORD0607;2024-06-09;CUST0212;P003;Headphones;Electronics;Porto Alegre;3;366,7;0,1;Completed;990,09
+ORD0608;2024-03-13;CUST0171;P004;Office Chair;Furniture;Porto Alegre;4;837,41;0,2;Completed;2679,71
+ORD0609;2024-03-26;CUST0211;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;4;444,87;0,1;Completed;1601,53
+ORD0610;2024-10-24;CUST0137;P008;Blender;Home & Kitchen;Belo Horizonte;2;258,05;0,05;Completed;490,3
+ORD0611;2024-07-29;CUST0154;P008;Blender;Home & Kitchen;Rio de Janeiro;3;284,79;0,05;Completed;811,65
+ORD0612;2024-01-11;CUST0230;P011;Yoga Mat;Sports;Sao Paulo;2;89,97;0,1;Completed;161,95
+ORD0613;2024-08-07;CUST0263;P010;Running Shoes;Sports;Curitiba;1;350,53;0,05;Completed;333,0
+ORD0614;2024-11-12;CUST0051;P007;Jeans;Clothing;Porto Alegre;4;140,7;0,1;Completed;506,52
+ORD0615;2024-02-15;CUST0118;P005;Desk;Furniture;Sao Paulo;5;1155,79;0,0;Completed;5778,95
+ORD0616;2024-04-27;CUST0011;P004;Office Chair;Furniture;Belo Horizonte;4;832,31;0,1;Completed;2996,32
+ORD0617;2024-08-02;CUST0026;P006;T-shirt;Clothing;Sao Paulo;5;60,07;0,05;Cancelled;285,33
+ORD0618;2024-01-29;CUST0273;P006;T-shirt;Clothing;Curitiba;3;59,5;0,0;Completed;178,5
+ORD0619;2024-04-02;CUST0106;P004;Office Chair;Furniture;Curitiba;5;784,57;0,15;Completed;3334,42
+ORD0620;2024-03-04;CUST0007;P005;Desk;Furniture;Sao Paulo;4;1175,27;0,05;Completed;4466,03
+ORD0621;2024-06-17;CUST0230;P002;Smartphone;Electronics;Curitiba;2;2190,06;0,1;Completed;3942,11
+ORD0622;2024-06-09;CUST0132;P004;Office Chair;Furniture;Curitiba;1;792,63;0,1;Completed;713,37
+ORD0623;2024-08-05;CUST0291;P006;T-shirt;Clothing;Porto Alegre;4;65,68;0,05;Completed;249,58
+ORD0624;2024-10-18;CUST0146;P008;Blender;Home & Kitchen;Belo Horizonte;2;281,68;0,1;Completed;507,02
+ORD0625;2024-02-16;CUST0039;P003;Headphones;Electronics;Sao Paulo;3;345,29;0,05;Completed;984,08
+ORD0626;2024-01-30;CUST0090;P004;Office Chair;Furniture;Porto Alegre;3;899,54;0,15;Completed;2293,83
+ORD0627;2024-09-09;CUST0070;P007;Jeans;Clothing;Belo Horizonte;1;144,69;0,2;Completed;115,75
+ORD0628;2024-05-31;CUST0249;P008;Blender;Home & Kitchen;Rio de Janeiro;3;280,91;0,05;Cancelled;800,59
+ORD0629;2024-08-16;CUST0247;P001;Laptop;Electronics;Porto Alegre;4;3815,37;0,0;Cancelled;15261,48
+ORD0630;2024-08-22;CUST0274;P001;Laptop;Electronics;Curitiba;5;3457,9;0,1;Completed;15560,55
+ORD0631;2024-06-19;CUST0095;P007;Jeans;Clothing;Rio de Janeiro;2;146,5;0,0;Completed;293,0
+ORD0632;2024-03-08;CUST0022;P011;Yoga Mat;Sports;Rio de Janeiro;3;91,58;0,0;Completed;274,74
+ORD0633;2024-01-25;CUST0167;P006;T-shirt;Clothing;Belo Horizonte;1;58,69;0,0;Completed;58,69
+ORD0634;2024-04-28;CUST0215;P003;Headphones;Electronics;Porto Alegre;1;355,01;0,0;Completed;355,01
+ORD0635;2024-02-22;CUST0123;P010;Running Shoes;Sports;Curitiba;3;302,51;0,1;Completed;816,78
+ORD0636;2024-09-22;CUST0294;P003;Headphones;Electronics;Porto Alegre;4;332,09;0,05;Completed;1261,94
+ORD0637;2024-03-07;CUST0045;P003;Headphones;Electronics;Porto Alegre;2;325,17;0,05;Completed;617,82
+ORD0638;2024-01-09;CUST0102;P003;Headphones;Electronics;Rio de Janeiro;4;333,07;0,0;Cancelled;1332,28
+ORD0639;2024-10-04;CUST0110;P009;Coffee Maker;Home & Kitchen;Unknown;1;463,1;0,0;Cancelled;463,1
+ORD0640;2024-11-01;CUST0279;P009;Coffee Maker;Home & Kitchen;Curitiba;4;493,56;0,1;Completed;1776,82
+ORD0641;2024-01-25;CUST0092;P006;T-shirt;Clothing;Curitiba;2;70,56;0,0;Completed;141,12
+ORD0642;2024-06-03;CUST0249;P008;Blender;Home & Kitchen;Rio de Janeiro;1;275,26;0,0;Completed;275,26
+ORD0643;2024-01-06;CUST0066;P003;Headphones;Electronics;Rio de Janeiro;5;331,58;0,0;Completed;1657,9
+ORD0644;2024-10-27;CUST0111;P007;Jeans;Clothing;Sao Paulo;2;144,96;0,1;Completed;260,93
+ORD0645;2024-07-21;CUST0045;P007;Jeans;Clothing;Belo Horizonte;3;164,78;0,0;Completed;494,34
+ORD0646;2024-08-20;CUST0275;P008;Blender;Home & Kitchen;Rio de Janeiro;1;274,94;0,2;Completed;219,95
+ORD0647;2024-08-07;CUST0180;P007;Jeans;Clothing;Porto Alegre;4;156,95;0,0;Completed;627,8
+ORD0648;2024-02-06;CUST0294;P001;Laptop;Electronics;Porto Alegre;2;3773,1;0,1;Completed;6791,58
+ORD0649;2024-11-05;CUST0236;P007;Jeans;Clothing;Porto Alegre;4;155,26;0,0;Completed;621,04
+ORD0650;2024-08-19;CUST0064;P010;Running Shoes;Sports;Curitiba;5;351,46;0,0;Completed;1757,3
+ORD0651;2024-12-17;CUST0103;P011;Yoga Mat;Sports;Curitiba;5;91,69;0,05;Completed;435,53
+ORD0652;2024-03-28;CUST0134;P002;Smartphone;Electronics;Curitiba;3;2344,1;0,0;Completed;7032,3
+ORD0653;2024-09-01;CUST0077;P009;Coffee Maker;Home & Kitchen;Sao Paulo;5;442,12;0,0;Completed;2210,6
+ORD0654;2024-05-27;CUST0025;P007;Jeans;Clothing;Rio de Janeiro;5;162,36;0,0;Completed;811,8
+ORD0655;2024-10-23;CUST0142;P002;Smartphone;Electronics;Rio de Janeiro;3;2105,68;0,1;Completed;5685,34
+ORD0656;2024-09-15;CUST0241;P008;Blender;Home & Kitchen;Belo Horizonte;5;278,41;0,0;Completed;1392,05
+ORD0657;2024-08-24;CUST0126;P008;Blender;Home & Kitchen;Curitiba;3;302,21;0,0;Completed;906,63
+ORD0658;2024-12-10;CUST0182;P002;Smartphone;Electronics;Curitiba;2;2255,87;0,15;Completed;3834,98
+ORD0659;2024-05-08;CUST0034;P009;Coffee Maker;Home & Kitchen;Sao Paulo;2;421,27;0,0;Completed;842,54
+ORD0660;2024-01-21;CUST0287;P006;T-shirt;Clothing;Rio de Janeiro;2;59,38;0,15;Completed;100,95
+ORD0661;2024-01-30;CUST0015;P010;Running Shoes;Sports;Belo Horizonte;1;301,7;0,0;Completed;301,7
+ORD0662;2024-01-09;CUST0099;P008;Blender;Home & Kitchen;Sao Paulo;5;296,72;0,15;Completed;1261,06
+ORD0663;2024-03-09;CUST0013;P004;Office Chair;Furniture;Belo Horizonte;5;860,98;0,1;Completed;3874,41
+ORD0664;2024-04-18;CUST0191;P010;Running Shoes;Sports;Sao Paulo;2;301,34;0,0;Completed;602,68
+ORD0665;2024-09-23;CUST0141;P005;Desk;Furniture;Belo Horizonte;3;1296,77;0,0;Completed;3890,31
+ORD0666;2024-03-14;CUST0060;P005;Desk;Furniture;Porto Alegre;4;1261,93;0,1;Completed;4542,95
+ORD0667;2024-06-05;CUST0276;P007;Jeans;Clothing;Belo Horizonte;2;158,46;0,1;Completed;285,23
+ORD0668;2024-07-27;CUST0106;P007;Jeans;Clothing;Curitiba;5;155,15;0,1;Completed;698,18
+ORD0669;2024-04-08;CUST0214;P010;Running Shoes;Sports;Curitiba;2;301,22;0,0;Completed;602,44
+ORD0670;2024-11-13;CUST0183;P003;Headphones;Electronics;Sao Paulo;1;340,92;0,1;Cancelled;306,83
+ORD0671;2024-12-23;CUST0111;P003;Headphones;Electronics;Curitiba;4;341,37;0,0;Completed;1365,48
+ORD0672;2024-07-28;CUST0173;P008;Blender;Home & Kitchen;Porto Alegre;4;285,6;0,05;Completed;1085,28
+ORD0673;2024-06-03;CUST0215;P007;Jeans;Clothing;Porto Alegre;2;157,94;0,0;Completed;315,88
+ORD0674;2024-12-02;CUST0075;P009;Coffee Maker;Home & Kitchen;Porto Alegre;3;450,95;0,0;Completed;1352,85
+ORD0675;2024-03-30;CUST0179;P003;Headphones;Electronics;Belo Horizonte;5;362,79;0,0;Cancelled;1813,95
+ORD0676;2024-02-28;CUST0196;P006;T-shirt;Clothing;Curitiba;1;71,33;0,05;Completed;67,76
+ORD0677;2024-09-02;CUST0230;P011;Yoga Mat;Sports;Belo Horizonte;5;81,97;0,1;Completed;368,86
+ORD0678;2024-02-10;CUST0165;P007;Jeans;Clothing;Sao Paulo;3;160,09;0,05;Completed;456,26
+ORD0679;2024-07-27;CUST0175;P011;Yoga Mat;Sports;Curitiba;3;95,28;0,2;Cancelled;228,67
+ORD0680;2024-09-26;CUST0116;P004;Office Chair;Furniture;Rio de Janeiro;5;921,77;0,0;Completed;4608,85
+ORD0681;2024-07-24;CUST0292;P002;Smartphone;Electronics;Curitiba;2;2000,77;0,2;Completed;3201,23
+ORD0682;2024-12-19;CUST0001;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;5;417,53;0,0;Completed;2087,65
+ORD0683;2024-12-14;CUST0192;P009;Coffee Maker;Home & Kitchen;Porto Alegre;2;420,07;0,05;Completed;798,13
+ORD0684;2024-02-07;CUST0056;P009;Coffee Maker;Home & Kitchen;Porto Alegre;3;427,5;0,0;Completed;1282,5
+ORD0685;2024-03-25;CUST0122;P004;Office Chair;Furniture;Sao Paulo;5;898,46;0,0;Completed;4492,3
+ORD0686;2024-09-29;CUST0081;P011;Yoga Mat;Sports;Sao Paulo;2;81,83;0,15;Completed;139,11
+ORD0687;2024-03-09;CUST0201;P005;Desk;Furniture;Porto Alegre;4;1080,39;0,0;Completed;4321,56
+ORD0688;2024-07-03;CUST0278;P010;Running Shoes;Sports;Rio de Janeiro;2;288,01;0,15;Completed;489,62
+ORD0689;2024-06-05;CUST0097;P007;Jeans;Clothing;Sao Paulo;3;137,03;0,1;Cancelled;369,98
+ORD0690;2024-05-11;CUST0161;P008;Blender;Home & Kitchen;Belo Horizonte;4;265,56;0,0;Completed;1062,24
+ORD0691;2024-04-14;CUST0056;P010;Running Shoes;Sports;Sao Paulo;4;346,74;0,0;Completed;1386,96
+ORD0692;2024-01-18;CUST0079;P008;Blender;Home & Kitchen;Rio de Janeiro;5;293,39;0,1;Completed;1320,26
+ORD0693;2024-06-30;CUST0071;P007;Jeans;Clothing;Rio de Janeiro;3;135,95;0,05;Completed;387,46
+ORD0694;2024-09-19;CUST0285;P010;Running Shoes;Sports;Porto Alegre;2;322,46;0,2;Completed;515,94
+ORD0695;2024-11-29;CUST0179;P010;Running Shoes;Sports;Belo Horizonte;1;288,45;0,05;Completed;274,03
+ORD0696;2024-11-23;CUST0083;P008;Blender;Home & Kitchen;Sao Paulo;1;305,28;0,0;Completed;305,28
+ORD0697;2024-11-11;CUST0126;P007;Jeans;Clothing;Porto Alegre;3;145,9;0,05;Cancelled;415,82
+ORD0698;2024-02-11;CUST0122;P003;Headphones;Electronics;Sao Paulo;2;373,8;0,0;Completed;747,6
+ORD0699;2024-07-25;CUST0291;P006;T-shirt;Clothing;Rio de Janeiro;3;66,75;0,0;Completed;200,25
+ORD0700;2024-11-03;CUST0219;P001;Laptop;Electronics;Porto Alegre;5;3531,24;0,0;Cancelled;17656,2
+ORD0701;2024-01-16;CUST0065;P005;Desk;Furniture;Belo Horizonte;4;1185,62;0,05;Completed;4505,36
+ORD0702;2024-07-10;CUST0181;P010;Running Shoes;Sports;Belo Horizonte;3;288,92;0,15;Cancelled;736,75
+ORD0703;2024-10-28;CUST0147;P002;Smartphone;Electronics;Rio de Janeiro;5;2153,06;0,05;Completed;10227,03
+ORD0704;2024-05-04;CUST0129;P010;Running Shoes;Sports;Porto Alegre;1;320,21;0,1;Completed;288,19
+ORD0705;2024-07-16;CUST0044;P010;Running Shoes;Sports;Curitiba;3;312,15;0,05;Completed;889,63
+ORD0706;2024-04-06;CUST0130;P010;Running Shoes;Sports;Rio de Janeiro;4;299,46;0,0;Cancelled;1197,84
+ORD0707;2024-12-01;CUST0034;P001;Laptop;Electronics;Sao Paulo;5;3389,81;0,1;Completed;15254,14
+ORD0708;2024-06-17;CUST0105;P009;Coffee Maker;Home & Kitchen;Sao Paulo;3;479,33;0,1;Cancelled;1294,19
+ORD0709;2024-08-11;CUST0126;P004;Office Chair;Furniture;Belo Horizonte;2;790,25;0,05;Completed;1501,48
+ORD0710;2024-04-06;CUST0204;P001;Laptop;Electronics;Sao Paulo;2;3827,42;0,1;Completed;6889,36
+ORD0711;2024-10-10;CUST0127;P011;Yoga Mat;Sports;Belo Horizonte;1;84,48;0,05;Completed;80,26
+ORD0712;2024-07-17;CUST0203;P002;Smartphone;Electronics;Rio de Janeiro;5;2130,89;0,1;Completed;9589,0
+ORD0713;2024-04-10;CUST0120;P009;Coffee Maker;Home & Kitchen;Sao Paulo;3;412,84;0,0;Completed;1238,52
+ORD0714;2024-08-03;CUST0137;P001;Laptop;Electronics;Belo Horizonte;5;3744,25;0,0;Completed;18721,25
+ORD0715;2024-09-29;CUST0149;P001;Laptop;Electronics;Rio de Janeiro;5;3549,29;0,05;Completed;16859,13
+ORD0716;2024-05-31;CUST0101;P007;Jeans;Clothing;Porto Alegre;2;151,04;0,0;Completed;302,08
+ORD0717;2024-01-17;CUST0047;P002;Smartphone;Electronics;Curitiba;1;2371,7;0,0;Completed;2371,7
+ORD0718;2024-07-23;CUST0026;P009;Coffee Maker;Home & Kitchen;Sao Paulo;3;446,85;0,0;Completed;1340,55
+ORD0719;2024-06-02;CUST0298;P010;Running Shoes;Sports;Curitiba;4;327,95;0,15;Completed;1115,03
+ORD0720;2024-03-16;CUST0154;P001;Laptop;Electronics;Curitiba;1;3368,53;0,1;Completed;3031,68
+ORD0721;2024-11-03;CUST0189;P008;Blender;Home & Kitchen;Sao Paulo;4;304,7;0,1;Completed;1096,92
+ORD0722;2024-01-25;CUST0134;P001;Laptop;Electronics;Belo Horizonte;2;3193,75;0,0;Completed;6387,5
+ORD0723;2024-08-20;CUST0121;P007;Jeans;Clothing;Porto Alegre;3;138,39;0,05;Completed;394,41
+ORD0724;2024-03-03;CUST0108;P004;Office Chair;Furniture;Sao Paulo;3;929,44;0,1;Cancelled;2509,49
+ORD0725;2024-02-13;CUST0282;P010;Running Shoes;Sports;Porto Alegre;1;333,27;0,0;Completed;333,27
+ORD0726;2024-03-06;CUST0254;P004;Office Chair;Furniture;Belo Horizonte;2;931,14;0,0;Completed;1862,28
+ORD0727;2024-03-24;CUST0100;P002;Smartphone;Electronics;Curitiba;4;2300,37;0,1;Completed;8281,33
+ORD0728;2024-02-13;CUST0018;P002;Smartphone;Electronics;Belo Horizonte;5;2206,9;0,05;Completed;10482,78
+ORD0729;2024-05-02;CUST0262;P004;Office Chair;Furniture;Belo Horizonte;5;831,92;0,05;Completed;3951,62
+ORD0730;2024-02-22;CUST0143;P011;Yoga Mat;Sports;Curitiba;3;82,52;0,0;Completed;247,56
+ORD0731;2024-03-09;CUST0017;P010;Running Shoes;Sports;Rio de Janeiro;5;322,26;0,1;Completed;1450,17
+ORD0732;2024-11-23;CUST0035;P005;Desk;Furniture;Rio de Janeiro;5;1280,77;0,1;Cancelled;5763,46
+ORD0733;2024-12-29;CUST0223;P006;T-shirt;Clothing;Curitiba;2;59,19;0,1;Completed;106,54
+ORD0734;2024-09-24;CUST0121;P001;Laptop;Electronics;Belo Horizonte;4;3272,21;0,1;Completed;11779,96
+ORD0735;2024-07-15;CUST0125;P002;Smartphone;Electronics;Curitiba;3;2385,95;0,1;Completed;6442,06
+ORD0736;2024-05-19;CUST0228;P011;Yoga Mat;Sports;Rio de Janeiro;1;88,34;0,0;Completed;88,34
+ORD0737;2024-07-30;CUST0242;P005;Desk;Furniture;Porto Alegre;4;1100,39;0,05;Completed;4181,48
+ORD0738;2024-05-28;CUST0135;P006;T-shirt;Clothing;Sao Paulo;4;63,01;0,15;Cancelled;214,23
+ORD0739;2024-10-20;CUST0145;P001;Laptop;Electronics;Curitiba;5;3482,34;0,0;Cancelled;17411,7
+ORD0740;2024-10-20;CUST0057;P002;Smartphone;Electronics;Sao Paulo;3;2017,58;0,2;Completed;4842,19
+ORD0741;2024-01-18;CUST0283;P011;Yoga Mat;Sports;Rio de Janeiro;4;82,91;0,15;Completed;281,89
+ORD0742;2024-06-28;CUST0226;P009;Coffee Maker;Home & Kitchen;Sao Paulo;2;410,58;0,05;Completed;780,1
+ORD0743;2024-08-19;CUST0258;P004;Office Chair;Furniture;Rio de Janeiro;5;887,24;0,05;Cancelled;4214,39
+ORD0744;2024-08-16;CUST0110;P001;Laptop;Electronics;Porto Alegre;2;3581,7;0,15;Completed;6088,89
+ORD0745;2024-12-08;CUST0161;P005;Desk;Furniture;Porto Alegre;4;1318,38;0,15;Completed;4482,49
+ORD0746;2024-03-29;CUST0279;P008;Blender;Home & Kitchen;Curitiba;4;299,5;0,1;Completed;1078,2
+ORD0747;2024-07-26;CUST0018;P006;T-shirt;Clothing;Sao Paulo;1;59,74;0,05;Completed;56,75
+ORD0748;2024-06-30;CUST0186;P005;Desk;Furniture;Rio de Janeiro;5;1156,17;0,0;Completed;5780,85
+ORD0749;2024-04-17;CUST0127;P002;Smartphone;Electronics;Porto Alegre;4;2214,44;0,15;Completed;7529,1
+ORD0750;2024-10-08;CUST0188;P007;Jeans;Clothing;Sao Paulo;2;152,27;0,0;Completed;304,54
+ORD0751;2024-01-05;CUST0178;P005;Desk;Furniture;Rio de Janeiro;3;1295,82;0,1;Completed;3498,71
+ORD0752;2024-05-06;CUST0198;P008;Blender;Home & Kitchen;Sao Paulo;4;289,88;0,0;Completed;1159,52
+ORD0753;2024-01-11;CUST0237;P004;Office Chair;Furniture;Porto Alegre;4;869,83;0,0;Completed;3479,32
+ORD0754;2024-08-06;CUST0068;P001;Laptop;Electronics;Porto Alegre;5;3241,25;0,0;Completed;16206,25
+ORD0755;2024-10-26;CUST0009;P010;Running Shoes;Sports;Belo Horizonte;4;312,46;0,0;Completed;1249,84
+ORD0756;2024-08-31;CUST0103;P005;Desk;Furniture;Rio de Janeiro;4;1279,1;0,0;Cancelled;5116,4
+ORD0757;2024-03-18;CUST0056;P010;Running Shoes;Sports;Sao Paulo;3;348,04;0,0;Completed;1044,12
+ORD0758;2024-04-10;CUST0261;P008;Blender;Home & Kitchen;Porto Alegre;3;263,47;0,1;Completed;711,37
+ORD0759;2024-06-30;CUST0292;P003;Headphones;Electronics;Sao Paulo;3;329,24;0,2;Cancelled;790,18
+ORD0760;2024-04-07;CUST0063;P007;Jeans;Clothing;Sao Paulo;4;153,87;0,1;Completed;553,93
+ORD0761;2024-08-13;CUST0207;P007;Jeans;Clothing;Belo Horizonte;1;152,79;0,05;Completed;145,15
+ORD0762;2024-12-01;CUST0218;P010;Running Shoes;Sports;Sao Paulo;4;302,74;0,0;Completed;1210,96
+ORD0763;2024-12-12;CUST0294;P011;Yoga Mat;Sports;Belo Horizonte;3;91,39;0,1;Completed;246,75
+ORD0764;2024-02-28;CUST0232;P001;Laptop;Electronics;Curitiba;1;3559,71;0,0;Cancelled;3559,71
+ORD0765;2024-04-07;CUST0027;P011;Yoga Mat;Sports;Belo Horizonte;1;93,91;0,05;Completed;89,21
+ORD0766;2024-07-13;CUST0076;P004;Office Chair;Furniture;Porto Alegre;1;779,15;0,15;Completed;662,28
+ORD0767;2024-07-14;CUST0207;P008;Blender;Home & Kitchen;Belo Horizonte;4;263,42;0,15;Completed;895,63
+ORD0768;2024-05-24;CUST0206;P005;Desk;Furniture;Belo Horizonte;2;1281,47;0,1;Completed;2306,65
+ORD0769;2024-11-03;CUST0068;P004;Office Chair;Furniture;Curitiba;3;845,18;0,0;Completed;2535,54
+ORD0770;2024-07-12;CUST0231;P002;Smartphone;Electronics;Porto Alegre;5;1983,14;0,05;Completed;9419,92
+ORD0771;2024-01-10;CUST0092;P010;Running Shoes;Sports;Sao Paulo;3;350,96;0,0;Completed;1052,88
+ORD0772;2024-03-18;CUST0058;P007;Jeans;Clothing;Sao Paulo;5;157,98;0,0;Completed;789,9
+ORD0773;2024-10-22;CUST0097;P004;Office Chair;Furniture;Porto Alegre;3;769,61;0,1;Completed;2077,95
+ORD0774;2024-10-18;CUST0071;P011;Yoga Mat;Sports;Rio de Janeiro;2;85,52;0,05;Cancelled;162,49
+ORD0775;2024-01-21;CUST0182;P011;Yoga Mat;Sports;Sao Paulo;4;97,68;0,2;Completed;312,58
+ORD0776;2024-04-29;CUST0193;P005;Desk;Furniture;Porto Alegre;5;1219,16;0,0;Completed;6095,8
+ORD0777;2024-10-03;CUST0055;P003;Headphones;Electronics;Belo Horizonte;3;320,78;0,0;Completed;962,34
+ORD0778;2024-06-20;CUST0198;P004;Office Chair;Furniture;Curitiba;5;912,85;0,05;Completed;4336,04
+ORD0779;2024-03-27;CUST0118;P005;Desk;Furniture;Rio de Janeiro;1;1081,48;0,15;Cancelled;919,26
+ORD0780;2024-11-10;CUST0062;P010;Running Shoes;Sports;Belo Horizonte;4;338,44;0,0;Completed;1353,76
+ORD0781;2024-01-17;CUST0081;P003;Headphones;Electronics;Belo Horizonte;5;384,68;0,0;Completed;1923,4
+ORD0782;2024-07-15;CUST0152;P008;Blender;Home & Kitchen;Porto Alegre;4;299,32;0,0;Completed;1197,28
+ORD0783;2024-02-26;CUST0099;P002;Smartphone;Electronics;Sao Paulo;3;2248,99;0,0;Completed;6746,97
+ORD0784;2024-11-30;CUST0214;P001;Laptop;Electronics;Curitiba;4;3317,75;0,0;Completed;13271,0
+ORD0785;2024-12-30;CUST0010;P003;Headphones;Electronics;Curitiba;4;364,38;0,0;Completed;1457,52
+ORD0786;2024-04-05;CUST0220;P011;Yoga Mat;Sports;Rio de Janeiro;4;90,23;0,15;Completed;306,78
+ORD0787;2024-06-15;CUST0254;P011;Yoga Mat;Sports;Rio de Janeiro;1;91,25;0,15;Completed;77,56
+ORD0788;2024-02-07;CUST0255;P007;Jeans;Clothing;Curitiba;3;146,83;0,15;Completed;374,42
+ORD0789;2024-03-22;CUST0204;P003;Headphones;Electronics;Rio de Janeiro;5;350,98;0,1;Completed;1579,41
+ORD0790;2024-07-24;CUST0217;P011;Yoga Mat;Sports;Sao Paulo;4;85,15;0,0;Completed;340,6
+ORD0791;2024-07-03;CUST0146;P007;Jeans;Clothing;Rio de Janeiro;4;163,46;0,1;Completed;588,46
+ORD0792;2024-04-17;CUST0252;P010;Running Shoes;Sports;Curitiba;2;338,33;0,05;Completed;642,83
+ORD0793;2024-04-28;CUST0044;P007;Jeans;Clothing;Rio de Janeiro;2;136,92;0,05;Completed;260,15
+ORD0794;2024-01-03;CUST0145;P005;Desk;Furniture;Porto Alegre;2;1108,57;0,0;Completed;2217,14
+ORD0795;2024-11-17;CUST0211;P008;Blender;Home & Kitchen;Porto Alegre;4;257,02;0,1;Completed;925,27
+ORD0796;2024-08-06;CUST0259;P010;Running Shoes;Sports;Belo Horizonte;5;311,47;0,0;Cancelled;1557,35
+ORD0797;2024-12-22;CUST0141;P009;Coffee Maker;Home & Kitchen;Curitiba;3;429,01;0,05;Completed;1222,68
+ORD0798;2024-09-29;CUST0249;P006;T-shirt;Clothing;Porto Alegre;4;62,57;0,0;Completed;250,28
+ORD0799;2024-03-06;CUST0107;P004;Office Chair;Furniture;Curitiba;4;794,92;0,15;Completed;2702,73
+ORD0800;2024-08-03;CUST0181;P003;Headphones;Electronics;Porto Alegre;5;363,5;0,2;Completed;1454,0
+ORD0801;2024-12-18;CUST0259;P008;Blender;Home & Kitchen;Porto Alegre;1;294,1;0,05;Completed;279,4
+ORD0802;2024-01-11;CUST0200;P010;Running Shoes;Sports;Curitiba;5;324,44;0,1;Completed;1459,98
+ORD0803;2024-03-06;CUST0199;P007;Jeans;Clothing;Sao Paulo;1;138,74;0,1;Completed;124,87
+ORD0804;2024-11-21;CUST0214;P011;Yoga Mat;Sports;Belo Horizonte;5;86,47;0,1;Completed;389,12
+ORD0805;2024-11-30;CUST0289;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;4;408,49;0,05;Completed;1552,26
+ORD0806;2024-09-30;CUST0079;P005;Desk;Furniture;Rio de Janeiro;5;1287,88;0,05;Completed;6117,43
+ORD0807;2024-06-24;CUST0163;P011;Yoga Mat;Sports;Rio de Janeiro;4;95,31;0,0;Completed;381,24
+ORD0808;2024-12-15;CUST0181;P002;Smartphone;Electronics;Porto Alegre;5;2185,59;0,0;Completed;10927,95
+ORD0809;2024-10-06;CUST0128;P004;Office Chair;Furniture;Rio de Janeiro;5;777,8;0,0;Completed;3889,0
+ORD0810;2024-07-05;CUST0154;P005;Desk;Furniture;Curitiba;5;1306,32;0,1;Completed;5878,44
+ORD0811;2024-03-04;CUST0003;P009;Coffee Maker;Home & Kitchen;Porto Alegre;5;482,24;0,0;Completed;2411,2
+ORD0812;2024-01-11;CUST0039;P004;Office Chair;Furniture;Rio de Janeiro;1;934,69;0,0;Completed;934,69
+ORD0813;2024-06-12;CUST0291;P011;Yoga Mat;Sports;Belo Horizonte;3;93,26;0,15;Completed;237,81
+ORD0814;2024-10-07;CUST0210;P007;Jeans;Clothing;Belo Horizonte;3;148,17;0,0;Completed;444,51
+ORD0815;2024-03-09;CUST0010;P010;Running Shoes;Sports;Rio de Janeiro;1;315,32;0,05;Cancelled;299,55
+ORD0816;2024-03-25;CUST0218;P004;Office Chair;Furniture;Porto Alegre;1;822,5;0,15;Cancelled;699,12
+ORD0817;2024-12-11;CUST0144;P005;Desk;Furniture;Sao Paulo;4;1093,7;0,0;Completed;4374,8
+ORD0818;2024-09-15;CUST0235;P005;Desk;Furniture;Porto Alegre;4;1251,78;0,2;Cancelled;4005,7
+ORD0819;2024-06-03;CUST0264;P002;Smartphone;Electronics;Sao Paulo;2;2087,65;0,05;Completed;3966,54
+ORD0820;2024-07-17;CUST0248;P005;Desk;Furniture;Belo Horizonte;5;1141,02;0,1;Completed;5134,59
+ORD0821;2024-02-27;CUST0154;P008;Blender;Home & Kitchen;Rio de Janeiro;2;271,17;0,05;Completed;515,22
+ORD0822;2024-03-20;CUST0232;P006;T-shirt;Clothing;Porto Alegre;4;60,95;0,0;Completed;243,8
+ORD0823;2024-06-14;CUST0216;P006;T-shirt;Clothing;Porto Alegre;5;62,75;0,0;Completed;313,75
+ORD0824;2024-01-29;CUST0221;P010;Running Shoes;Sports;Porto Alegre;3;304,67;0,15;Completed;776,91
+ORD0825;2024-05-14;CUST0025;P010;Running Shoes;Sports;Sao Paulo;2;310,56;0,0;Completed;621,12
+ORD0826;2024-05-08;CUST0006;P005;Desk;Furniture;Porto Alegre;2;1203,08;0,0;Completed;2406,16
+ORD0827;2024-11-21;CUST0204;P010;Running Shoes;Sports;Porto Alegre;5;338,01;0,1;Completed;1521,04
+ORD0828;2024-04-12;CUST0116;P004;Office Chair;Furniture;Porto Alegre;4;873,88;0,0;Cancelled;3495,52
+ORD0829;2024-09-15;CUST0024;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;3;424,6;0,1;Completed;1146,42
+ORD0830;2024-01-24;CUST0243;P003;Headphones;Electronics;Sao Paulo;4;330,56;0,0;Completed;1322,24
+ORD0831;2024-09-23;CUST0075;P002;Smartphone;Electronics;Rio de Janeiro;1;2312,12;0,0;Completed;2312,12
+ORD0832;2024-04-12;CUST0259;P002;Smartphone;Electronics;Belo Horizonte;1;2136,0;0,05;Completed;2029,2
+ORD0833;2024-02-18;CUST0132;P007;Jeans;Clothing;Belo Horizonte;2;140,9;0,15;Completed;239,53
+ORD0834;2024-04-26;CUST0035;P002;Smartphone;Electronics;Belo Horizonte;4;2063,7;0,05;Completed;7842,06
+ORD0835;2024-08-04;CUST0216;P009;Coffee Maker;Home & Kitchen;Curitiba;2;451,19;0,0;Completed;902,38
+ORD0836;2024-12-22;CUST0169;P004;Office Chair;Furniture;Rio de Janeiro;5;857,65;0,0;Completed;4288,25
+ORD0837;2024-03-06;CUST0285;P006;T-shirt;Clothing;Rio de Janeiro;5;61,34;0,0;Completed;306,7
+ORD0838;2024-09-29;CUST0101;P005;Desk;Furniture;Rio de Janeiro;4;1216,68;0,15;Cancelled;4136,71
+ORD0839;2024-06-24;CUST0002;P004;Office Chair;Furniture;Curitiba;3;881,56;0,0;Completed;2644,68
+ORD0840;2024-07-29;CUST0270;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;3;486,92;0,0;Completed;1460,76
+ORD0841;2024-12-02;CUST0137;P003;Headphones;Electronics;Sao Paulo;2;380,53;0,15;Completed;646,9
+ORD0842;2024-04-09;CUST0143;P001;Laptop;Electronics;Rio de Janeiro;2;3337,6;0,15;Completed;5673,92
+ORD0843;2024-03-22;CUST0270;P004;Office Chair;Furniture;Curitiba;2;789,84;0,15;Completed;1342,73
+ORD0844;2024-04-23;CUST0255;P003;Headphones;Electronics;Belo Horizonte;2;322,52;0,0;Cancelled;645,04
+ORD0845;2024-04-21;CUST0092;P010;Running Shoes;Sports;Belo Horizonte;1;339,55;0,0;Completed;339,55
+ORD0846;2024-01-08;CUST0045;P005;Desk;Furniture;Sao Paulo;4;1264,81;0,1;Cancelled;4553,32
+ORD0847;2024-02-01;CUST0131;P010;Running Shoes;Sports;Rio de Janeiro;1;307,16;0,0;Completed;307,16
+ORD0848;2024-09-09;CUST0025;P009;Coffee Maker;Home & Kitchen;Curitiba;1;435,8;0,2;Completed;348,64
+ORD0849;2024-10-26;CUST0297;P007;Jeans;Clothing;Belo Horizonte;3;159,63;0,0;Completed;478,89
+ORD0850;2024-12-17;CUST0256;P002;Smartphone;Electronics;Curitiba;2;2114,59;0,05;Completed;4017,72
+ORD0851;2024-06-10;CUST0003;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;5;450,0;0,0;Completed;2250,0
+ORD0852;2024-05-05;CUST0204;P009;Coffee Maker;Home & Kitchen;Sao Paulo;5;436,03;0,0;Cancelled;2180,15
+ORD0853;2024-01-11;CUST0046;P004;Office Chair;Furniture;Belo Horizonte;2;835,96;0,0;Completed;1671,92
+ORD0854;2024-06-29;CUST0030;P006;T-shirt;Clothing;Rio de Janeiro;3;64,35;0,0;Completed;193,05
+ORD0855;2024-11-24;CUST0207;P009;Coffee Maker;Home & Kitchen;Curitiba;3;481,64;0,15;Completed;1228,18
+ORD0856;2024-02-09;CUST0167;P007;Jeans;Clothing;Belo Horizonte;2;148,06;0,05;Completed;281,31
+ORD0857;2024-10-15;CUST0135;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;3;484,02;0,0;Cancelled;1452,06
+ORD0858;2024-05-12;CUST0022;P008;Blender;Home & Kitchen;Porto Alegre;2;287,17;0,15;Completed;488,19
+ORD0859;2024-04-16;CUST0144;P001;Laptop;Electronics;Porto Alegre;1;3491,53;0,0;Completed;3491,53
+ORD0860;2024-06-02;CUST0050;P007;Jeans;Clothing;Rio de Janeiro;1;138,92;0,0;Completed;138,92
+ORD0861;2024-05-25;CUST0186;P008;Blender;Home & Kitchen;Rio de Janeiro;3;292,28;0,1;Completed;789,16
+ORD0862;2024-05-19;CUST0104;P007;Jeans;Clothing;Rio de Janeiro;3;154,11;0,15;Completed;392,98
+ORD0863;2024-05-20;CUST0079;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;5;445,22;0,1;Completed;2003,49
+ORD0864;2024-09-25;CUST0120;P002;Smartphone;Electronics;Curitiba;2;2292,59;0,05;Completed;4355,92
+ORD0865;2024-09-03;CUST0133;P006;T-shirt;Clothing;Curitiba;1;67,79;0,05;Completed;64,4
+ORD0866;2024-04-30;CUST0210;P011;Yoga Mat;Sports;Belo Horizonte;4;94,98;0,1;Completed;341,93
+ORD0867;2024-05-09;CUST0139;P009;Coffee Maker;Home & Kitchen;Rio de Janeiro;5;427,35;0,2;Completed;1709,4
+ORD0868;2024-05-22;CUST0192;P003;Headphones;Electronics;Curitiba;4;329,48;0,15;Completed;1120,23
+ORD0869;2024-05-31;CUST0195;P002;Smartphone;Electronics;Rio de Janeiro;2;2279,31;0,15;Completed;3874,83
+ORD0870;2024-10-30;CUST0294;P009;Coffee Maker;Home & Kitchen;Porto Alegre;1;415,94;0,1;Cancelled;374,35
+ORD0871;2024-11-16;CUST0044;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;5;480,98;0,0;Completed;2404,9
+ORD0872;2024-05-06;CUST0204;P001;Laptop;Electronics;Rio de Janeiro;3;3211,19;0,15;Completed;8188,53
+ORD0873;2024-10-28;CUST0216;P008;Blender;Home & Kitchen;Sao Paulo;5;268,19;0,2;Completed;1072,76
+ORD0874;2024-04-03;CUST0130;P007;Jeans;Clothing;Sao Paulo;5;164,49;0,05;Completed;781,33
+ORD0875;2024-08-14;CUST0020;P011;Yoga Mat;Sports;Porto Alegre;2;92,99;0,15;Completed;158,08
+ORD0876;2024-05-27;CUST0169;P006;T-shirt;Clothing;Sao Paulo;2;60,13;0,1;Completed;108,23
+ORD0877;2024-08-12;CUST0291;P003;Headphones;Electronics;Belo Horizonte;1;327,07;0,15;Completed;278,01
+ORD0878;2024-10-04;CUST0069;P005;Desk;Furniture;Sao Paulo;5;1087,52;0,0;Completed;5437,6
+ORD0879;2024-08-03;CUST0205;P008;Blender;Home & Kitchen;Porto Alegre;2;289,48;0,15;Completed;492,12
+ORD0880;2024-02-08;CUST0172;P010;Running Shoes;Sports;Sao Paulo;1;294,35;0,0;Completed;294,35
+ORD0881;2024-06-26;CUST0214;P008;Blender;Home & Kitchen;Sao Paulo;5;305,81;0,15;Completed;1299,69
+ORD0882;2024-10-06;CUST0060;P010;Running Shoes;Sports;Curitiba;2;296,12;0,15;Completed;503,4
+ORD0883;2024-01-29;CUST0279;P010;Running Shoes;Sports;Sao Paulo;5;294,77;0,05;Completed;1400,16
+ORD0884;2024-07-04;CUST0077;P011;Yoga Mat;Sports;Rio de Janeiro;5;88,1;0,15;Completed;374,42
+ORD0885;2024-08-25;CUST0189;P007;Jeans;Clothing;Sao Paulo;1;159,96;0,05;Completed;151,96
+ORD0886;2024-08-06;CUST0202;P003;Headphones;Electronics;Porto Alegre;3;357,32;0,05;Completed;1018,36
+ORD0887;2024-12-12;CUST0007;P011;Yoga Mat;Sports;Curitiba;2;84,07;0,05;Completed;159,73
+ORD0888;2024-01-16;CUST0273;P010;Running Shoes;Sports;Sao Paulo;4;307,1;0,1;Completed;1105,56
+ORD0889;2024-10-09;CUST0259;P006;T-shirt;Clothing;Belo Horizonte;4;68,0;0,0;Completed;272,0
+ORD0890;2024-04-12;CUST0237;P006;T-shirt;Clothing;Rio de Janeiro;1;67,9;0,15;Cancelled;57,72
+ORD0891;2024-06-30;CUST0224;P009;Coffee Maker;Home & Kitchen;Sao Paulo;2;443,6;0,0;Completed;887,2
+ORD0892;2024-09-12;CUST0025;P008;Blender;Home & Kitchen;Curitiba;2;262,97;0,15;Cancelled;447,05
+ORD0893;2024-12-03;CUST0182;P004;Office Chair;Furniture;Rio de Janeiro;2;920,5;0,05;Completed;1748,95
+ORD0894;2024-02-22;CUST0100;P006;T-shirt;Clothing;Curitiba;4;58,55;0,2;Completed;187,36
+ORD0895;2024-04-10;CUST0130;P011;Yoga Mat;Sports;Belo Horizonte;5;94,61;0,05;Completed;449,4
+ORD0896;2024-08-01;CUST0194;P004;Office Chair;Furniture;Curitiba;2;784,04;0,15;Completed;1332,87
+ORD0897;2024-05-18;CUST0202;P008;Blender;Home & Kitchen;Curitiba;5;294,37;0,0;Completed;1471,85
+ORD0898;2024-07-09;CUST0075;P009;Coffee Maker;Home & Kitchen;Sao Paulo;4;453,62;0,0;Completed;1814,48
+ORD0899;2024-06-19;CUST0151;P005;Desk;Furniture;Porto Alegre;3;1239,76;0,05;Cancelled;3533,32
+ORD0900;2024-09-16;CUST0101;P005;Desk;Furniture;Porto Alegre;4;1197,35;0,05;Cancelled;4549,93
+ORD0901;2024-05-25;CUST0095;P010;Running Shoes;Sports;Rio de Janeiro;1;317,44;0,0;Completed;317,44
+ORD0902;2024-08-01;CUST0135;P006;T-shirt;Clothing;Belo Horizonte;3;69,97;0,05;Completed;199,41
+ORD0903;2024-11-21;CUST0280;P001;Laptop;Electronics;Rio de Janeiro;3;3212,88;0,0;Completed;9638,64
+ORD0904;2024-02-16;CUST0156;P008;Blender;Home & Kitchen;Belo Horizonte;3;287,77;0,0;Cancelled;863,31
+ORD0905;2024-06-10;CUST0284;P007;Jeans;Clothing;Curitiba;3;154,51;0,0;Cancelled;463,53
+ORD0906;2024-07-24;CUST0100;P002;Smartphone;Electronics;Porto Alegre;2;2327,14;0,1;Cancelled;4188,85
+ORD0907;2024-10-31;CUST0293;P001;Laptop;Electronics;Rio de Janeiro;2;3257,39;0,0;Completed;6514,78
+ORD0908;2024-05-06;CUST0053;P007;Jeans;Clothing;Rio de Janeiro;4;159,28;0,0;Completed;637,12
+ORD0909;2024-05-11;CUST0156;P006;T-shirt;Clothing;Porto Alegre;2;68,65;0,0;Completed;137,3
+ORD0910;2024-12-29;CUST0263;P003;Headphones;Electronics;Porto Alegre;2;383,05;0,0;Completed;766,1
+ORD0911;2024-12-31;CUST0210;P007;Jeans;Clothing;Sao Paulo;2;151,32;0,1;Completed;272,38
+ORD0912;2024-10-07;CUST0027;P010;Running Shoes;Sports;Rio de Janeiro;4;293,85;0,05;Cancelled;1116,63
+ORD0913;2024-05-26;CUST0286;P004;Office Chair;Furniture;Curitiba;4;877,79;0,15;Completed;2984,49
+ORD0914;2024-04-14;CUST0107;P005;Desk;Furniture;Curitiba;2;1282,21;0,05;Cancelled;2436,2
+ORD0915;2024-08-08;CUST0225;P008;Blender;Home & Kitchen;Rio de Janeiro;3;271,6;0,15;Completed;692,58
+ORD0916;2024-08-23;CUST0127;P002;Smartphone;Electronics;Porto Alegre;5;2253,65;0,1;Completed;10141,43
+ORD0917;2024-06-03;CUST0197;P003;Headphones;Electronics;Sao Paulo;1;364,95;0,0;Completed;364,95
+ORD0918;2024-02-26;CUST0199;P008;Blender;Home & Kitchen;Porto Alegre;2;277,32;0,0;Completed;554,64
+ORD0919;2024-03-24;CUST0152;P006;T-shirt;Clothing;Rio de Janeiro;2;69,96;0,0;Completed;139,92
+ORD0920;2024-05-18;CUST0219;P006;T-shirt;Clothing;Belo Horizonte;3;66,71;0,0;Completed;200,13
+ORD0921;2024-02-03;CUST0221;P008;Blender;Home & Kitchen;Sao Paulo;4;299,52;0,15;Completed;1018,37
+ORD0922;2024-04-22;CUST0262;P001;Laptop;Electronics;Curitiba;5;3543,36;0,0;Completed;17716,8
+ORD0923;2024-05-20;CUST0233;P009;Coffee Maker;Home & Kitchen;Curitiba;1;411,91;0,05;Completed;391,31
+ORD0924;2024-01-12;CUST0118;P011;Yoga Mat;Sports;Belo Horizonte;2;81,95;0,0;Completed;163,9
+ORD0925;2024-02-22;CUST0118;P007;Jeans;Clothing;Belo Horizonte;2;137,83;0,0;Completed;275,66
+ORD0926;2024-10-17;CUST0080;P008;Blender;Home & Kitchen;Porto Alegre;5;289,63;0,1;Completed;1303,34
+ORD0927;2024-08-12;CUST0128;P011;Yoga Mat;Sports;Curitiba;2;93,78;0,0;Completed;187,56
+ORD0928;2024-08-18;CUST0292;P007;Jeans;Clothing;Sao Paulo;2;148,4;0,05;Cancelled;281,96
+ORD0929;2024-05-24;CUST0143;P008;Blender;Home & Kitchen;Sao Paulo;2;278,31;0,05;Completed;528,79
+ORD0930;2024-06-18;CUST0270;P004;Office Chair;Furniture;Curitiba;4;869,63;0,0;Completed;3478,52
+ORD0931;2024-11-28;CUST0141;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;5;457,33;0,15;Completed;1943,65
+ORD0932;2024-12-10;CUST0067;P011;Yoga Mat;Sports;Porto Alegre;3;85,44;0,05;Completed;243,5
+ORD0933;2024-02-06;CUST0289;P007;Jeans;Clothing;Sao Paulo;2;147,8;0,1;Completed;266,04
+ORD0934;2024-07-22;CUST0064;P010;Running Shoes;Sports;Curitiba;3;309,09;0,05;Completed;880,91
+ORD0935;2024-01-20;CUST0038;P002;Smartphone;Electronics;Porto Alegre;1;2270,55;0,05;Completed;2157,02
+ORD0936;2024-04-09;CUST0079;P009;Coffee Maker;Home & Kitchen;Sao Paulo;2;423,74;0,0;Completed;847,48
+ORD0937;2024-06-24;CUST0006;P007;Jeans;Clothing;Rio de Janeiro;4;158,25;0,1;Completed;569,7
+ORD0938;2024-04-25;CUST0210;P011;Yoga Mat;Sports;Sao Paulo;3;87,05;0,05;Completed;248,09
+ORD0939;2024-08-31;CUST0070;P010;Running Shoes;Sports;Curitiba;3;304,14;0,05;Completed;866,8
+ORD0940;2024-05-12;CUST0278;P004;Office Chair;Furniture;Curitiba;1;927,25;0,15;Completed;788,16
+ORD0941;2024-06-27;CUST0287;P004;Office Chair;Furniture;Curitiba;5;856,66;0,2;Completed;3426,64
+ORD0942;2024-02-03;CUST0046;P006;T-shirt;Clothing;Sao Paulo;2;71,46;0,05;Completed;135,77
+ORD0943;2024-07-30;CUST0045;P003;Headphones;Electronics;Belo Horizonte;2;383,73;0,1;Cancelled;690,71
+ORD0944;2024-11-13;CUST0267;P011;Yoga Mat;Sports;Curitiba;3;98,04;0,1;Completed;264,71
+ORD0945;2024-07-08;CUST0204;P009;Coffee Maker;Home & Kitchen;Porto Alegre;2;472,84;0,1;Completed;851,11
+ORD0946;2024-10-01;CUST0262;P008;Blender;Home & Kitchen;Rio de Janeiro;3;279,02;0,1;Completed;753,35
+ORD0947;2024-06-19;CUST0129;P004;Office Chair;Furniture;Sao Paulo;1;812,08;0,0;Completed;812,08
+ORD0948;2024-10-03;CUST0234;P004;Office Chair;Furniture;Sao Paulo;5;916,52;0,05;Completed;4353,47
+ORD0949;2024-08-12;CUST0228;P007;Jeans;Clothing;Belo Horizonte;2;160,23;0,0;Completed;320,46
+ORD0950;2024-05-20;CUST0290;P009;Coffee Maker;Home & Kitchen;Curitiba;3;466,49;0,0;Completed;1399,47
+ORD0951;2024-12-24;CUST0194;P002;Smartphone;Electronics;Porto Alegre;1;2048,5;0,0;Completed;2048,5
+ORD0952;2024-03-17;CUST0102;P007;Jeans;Clothing;Porto Alegre;5;164,96;0,0;Completed;824,8
+ORD0953;2024-10-23;CUST0103;P005;Desk;Furniture;Curitiba;3;1302,29;0,0;Completed;3906,87
+ORD0954;2024-12-28;CUST0113;P006;T-shirt;Clothing;Sao Paulo;5;59,3;0,1;Completed;266,85
+ORD0955;2024-03-01;CUST0193;P005;Desk;Furniture;Curitiba;4;1204,57;0,2;Completed;3854,62
+ORD0956;2024-01-18;CUST0052;P006;T-shirt;Clothing;Curitiba;2;64,25;0,0;Completed;128,5
+ORD0957;2024-07-24;CUST0145;P002;Smartphone;Electronics;Porto Alegre;3;2223,75;0,0;Completed;6671,25
+ORD0958;2024-01-02;CUST0118;P009;Coffee Maker;Home & Kitchen;Porto Alegre;5;422,09;0,15;Completed;1793,88
+ORD0959;2024-03-29;CUST0228;P007;Jeans;Clothing;Sao Paulo;2;151,86;0,0;Completed;303,72
+ORD0960;2024-02-15;CUST0275;P005;Desk;Furniture;Sao Paulo;4;1170,3;0,15;Completed;3979,02
+ORD0961;2024-03-19;CUST0141;P002;Smartphone;Electronics;Sao Paulo;4;2200,8;0,05;Completed;8363,04
+ORD0962;2024-08-05;CUST0239;P005;Desk;Furniture;Curitiba;5;1269,72;0,05;Completed;6031,17
+ORD0963;2024-04-03;CUST0296;P001;Laptop;Electronics;Sao Paulo;3;3340,62;0,0;Completed;10021,86
+ORD0964;2024-02-26;CUST0216;P005;Desk;Furniture;Belo Horizonte;4;1130,95;0,05;Completed;4297,61
+ORD0965;2024-01-23;CUST0022;P011;Yoga Mat;Sports;Sao Paulo;3;94,75;0,0;Completed;284,25
+ORD0966;2024-06-01;CUST0253;P008;Blender;Home & Kitchen;Curitiba;5;275,67;0,0;Completed;1378,35
+ORD0967;2024-07-11;CUST0268;P010;Running Shoes;Sports;Rio de Janeiro;4;350,25;0,0;Completed;1401,0
+ORD0968;2024-02-08;CUST0184;P002;Smartphone;Electronics;Sao Paulo;3;2339,83;0,05;Cancelled;6668,52
+ORD0969;2024-09-09;CUST0299;P007;Jeans;Clothing;Curitiba;1;147,21;0,1;Completed;132,49
+ORD0970;2024-11-14;CUST0057;P008;Blender;Home & Kitchen;Rio de Janeiro;3;274,99;0,15;Cancelled;701,22
+ORD0971;2024-03-11;CUST0084;P002;Smartphone;Electronics;Rio de Janeiro;2;2172,73;0,05;Completed;4128,19
+ORD0972;2024-06-02;CUST0213;P011;Yoga Mat;Sports;Belo Horizonte;2;94,13;0,05;Completed;178,85
+ORD0973;2024-05-28;CUST0286;P007;Jeans;Clothing;Sao Paulo;4;144,96;0,1;Completed;521,86
+ORD0974;2024-09-26;CUST0208;P008;Blender;Home & Kitchen;Porto Alegre;4;265,8;0,0;Completed;1063,2
+ORD0975;2024-01-26;CUST0163;P008;Blender;Home & Kitchen;Curitiba;2;281,54;0,1;Completed;506,77
+ORD0976;2024-12-02;CUST0138;P005;Desk;Furniture;Curitiba;2;1176,21;0,0;Completed;2352,42
+ORD0977;2024-07-22;CUST0056;P010;Running Shoes;Sports;Porto Alegre;2;339,41;0,05;Completed;644,88
+ORD0978;2024-04-15;CUST0091;P010;Running Shoes;Sports;Sao Paulo;2;307,49;0,0;Completed;614,98
+ORD0979;2024-10-16;CUST0168;P006;T-shirt;Clothing;Porto Alegre;1;68,88;0,0;Completed;68,88
+ORD0980;2024-04-14;CUST0211;P004;Office Chair;Furniture;Porto Alegre;2;905,04;0,15;Completed;1538,57
+ORD0981;2024-02-06;CUST0214;P001;Laptop;Electronics;Porto Alegre;3;3672,01;0,0;Completed;11016,03
+ORD0982;2024-03-06;CUST0132;P001;Laptop;Electronics;Porto Alegre;4;3152,87;0,0;Completed;12611,48
+ORD0983;2024-03-17;CUST0176;P004;Office Chair;Furniture;Sao Paulo;1;795,24;0,15;Completed;675,95
+ORD0984;2024-07-19;CUST0042;P010;Running Shoes;Sports;Porto Alegre;4;328,91;0,15;Completed;1118,29
+ORD0985;2024-07-06;CUST0041;P009;Coffee Maker;Home & Kitchen;Belo Horizonte;3;441,71;0,0;Completed;1325,13
+ORD0986;2024-04-14;CUST0188;P009;Coffee Maker;Home & Kitchen;Porto Alegre;2;494,93;0,0;Completed;989,86
+ORD0987;2024-06-17;CUST0008;P002;Smartphone;Electronics;Rio de Janeiro;5;2226,31;0,05;Completed;10574,97
+ORD0988;2024-02-17;CUST0104;P004;Office Chair;Furniture;Rio de Janeiro;5;912,9;0,1;Completed;4108,05
+ORD0989;2024-01-29;CUST0277;P005;Desk;Furniture;Sao Paulo;2;1221,15;0,0;Completed;2442,3
+ORD0990;2024-07-06;CUST0110;P004;Office Chair;Furniture;Sao Paulo;5;833,01;0,1;Cancelled;3748,54
+ORD0991;2024-08-18;CUST0133;P002;Smartphone;Electronics;Sao Paulo;5;2126,5;0,0;Completed;10632,5
+ORD0992;2024-04-18;CUST0284;P007;Jeans;Clothing;Rio de Janeiro;3;139,44;0,0;Completed;418,32
+ORD0993;2024-11-12;CUST0008;P003;Headphones;Electronics;Porto Alegre;3;370,19;0,15;Cancelled;943,98
+ORD0994;2024-07-15;CUST0132;P011;Yoga Mat;Sports;Belo Horizonte;1;93,0;0,15;Completed;79,05
+ORD0995;2024-10-07;CUST0043;P006;T-shirt;Clothing;Rio de Janeiro;3;67,73;0,05;Completed;193,03
+ORD0996;2024-11-21;CUST0204;P006;T-shirt;Clothing;Sao Paulo;2;69,04;0,0;Completed;138,08
+ORD0997;2024-03-12;CUST0046;P005;Desk;Furniture;Porto Alegre;2;1101,36;0,05;Cancelled;2092,58
+ORD0998;2024-05-26;CUST0178;P002;Smartphone;Electronics;Rio de Janeiro;3;2275,0;0,0;Completed;6825,0
+ORD0999;2024-06-02;CUST0196;P002;Smartphone;Electronics;Rio de Janeiro;1;2125,64;0,15;Completed;1806,79
+ORD1000;2024-05-24;CUST0153;P007;Jeans;Clothing;Curitiba;3;158,44;0,0;Completed;475,32
